@@ -1,0 +1,18 @@
+Raw Signals (MFI),Raw_Signals_(MFI)
+Background (MFI),Background_(MFI)
+Net Signals (MFI),Net_Signals_(MFI)
+Allelic Ratios,Allelic_Ratios
+AR Thresholds,AR_Thresholds
+Notes and explanations,Notes_and_explanations
+Wt Allele,Wt_Allele
+Mut Allele,Mut_Allele
+WT Call,WT_Call
+Wt Present,Wt_Present
+Mut Present,Mut_Present
+No Call,No_Call
+Mu D,Mu_D
+del e2e3,del_e2e3
+intron 1,intron_1
+Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details,Warning:_presence_of_benign_variant(s)_affected_interpretation_of_the_dI507/dF508_result._Refer_to_Kit_Package_Insert_for_details
+Variation failed: allelic ratio(s) not within predefined ranges,Variation_failed:_allelic_ratio(s)_not_within_predefined_ranges
+Variation failed: signal(s) inadequate,Variation_failed:_signal(s)_inadequate

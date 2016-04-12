@@ -1,0 +1,2034 @@
+﻿Data Analysis Software Report
+TDAS CFTR version 2.01
+File analyzed on: Thursday, August 27, 2015 - 12:20:18
+Analyzed by:
+Analyzed with: xTAG® Cystic Fibrosis v2 (CF71) v.2.01
+File name: H:\OldInhsHome\My Documents\Molecular Controls\Luminex Data\CF70A 150826_20150826_144712.csv
+Program "xPONENT","","LX100/LX200"
+Build "3.1.971.0"
+Date "8/26/2015","2:37 PM"
+SN "LX10006134403"
+Batch CF70A 150826
+Version "1"
+Operator ""
+ComputerName "XPONENT31-PC"
+Country Code "409"
+ProtocolName "xTAG CysticFibrosisv2 T-A flex"
+ProtocolVersion "1"
+ProtocolDescription "xTAG Cystic Fibrosis kit v2 Template A (flex)"
+ProtocolDevelopingCompany "Luminex Molecular Diagnostics"
+SampleVolume "100 uL"
+DDGate "6000 to 20000"
+SampleTimeout "100 sec"
+BatchStartTime "8/26/2015 2:41:46 PM"
+BatchStopTime "8/26/2015 2:47:11 PM"
+BatchDescription "<None>"
+ProtocolPlate "Name","Current 96-well plate","Type","96","Plates","1"
+ProtocolMicrosphere "Map","100 regions","Type","MicroPlex","Count","84"
+ProtocolAnalysis "Off"
+NormBead "None"
+ProtocolHeater "Off"
+Most Recent Calibration and Control Results:
+Last CAL1 Calibration "Passed 8/12/2015 1:57:18 PM"
+Last CAL2 Calibration "Passed 8/12/2015 1:58:50 PM"
+Last CON1 Verification "Passed 8/12/2015 1:59:18 PM"
+Last CON2 Verification "Passed 8/12/2015 2:00:12 PM"
+CALInfo:
+Classification Calibrator
+Lot "ExpirationDate","CalibrationTime","DDTemp","CL1Temp","CL2Temp","DDVolts","CL1Volts","CL2Volts","DDRVal",
+"CL1RVal","CL2RVal","Result","MachineSerialNo"
+B41109 "6/6/2016","8/12/2015 1:57:24 PM","23.52","23.96","23.31","87.37","106.23","105.42","833","1729","1621","Pass",
+"LX10006134403"
+Reporter Calibrator
+Lot "ExpirationDate","CalibrationTime","RP1(1)Volts","RP1(1)Val","RP1(2)Volts","RP1(2)Val","Result","MachineSerialNo"
+B40643 "5/1/2016","8/12/2015 1:58:56 PM","652.01","3550.61","805.86","16142.75","Pass","LX10006134403"
+Samples "10","Min Events","100","Per Bead"
+File name: H:\OldInhsHome\My Documents\Molecular Controls\Luminex Data\CF70B 150826_20150826_145228.csv
+Program "xPONENT","","LX100/LX200"
+Build "3.1.971.0"
+Date "8/26/2015","2:38 PM"
+SN "LX10006134403"
+Batch CF70B 150826
+Version "1"
+Operator ""
+ComputerName "XPONENT31-PC"
+Country Code "409"
+ProtocolName "xTAG CysticFibrosisv2 T-B"
+ProtocolVersion "1"
+ProtocolDescription "xTAG Cystic Fibrosis kit v2 Template B"
+ProtocolDevelopingCompany "Luminex Molecular Diagnostics"
+SampleVolume "100 uL"
+DDGate "6000 to 20000"
+SampleTimeout "100 sec"
+BatchStartTime "8/26/2015 2:47:50 PM"
+BatchStopTime "8/26/2015 2:52:28 PM"
+BatchDescription "<None>"
+ProtocolPlate "Name","Current 96-well plate","Type","96","Plates","1"
+ProtocolMicrosphere "Map","100 regions","Type","MicroPlex","Count","65"
+ProtocolAnalysis "Off"
+NormBead "None"
+ProtocolHeater "Off"
+Most Recent Calibration and Control Results:
+Last CAL1 Calibration "Passed 8/12/2015 1:57:18 PM"
+Last CAL2 Calibration "Passed 8/12/2015 1:58:50 PM"
+Last CON1 Verification "Passed 8/12/2015 1:59:18 PM"
+Last CON2 Verification "Passed 8/12/2015 2:00:12 PM"
+CALInfo:
+Classification Calibrator
+Lot "ExpirationDate","CalibrationTime","DDTemp","CL1Temp","CL2Temp","DDVolts","CL1Volts","CL2Volts","DDRVal",
+"CL1RVal","CL2RVal","Result","MachineSerialNo"
+B41109 "6/6/2016","8/12/2015 1:57:24 PM","23.52","23.96","23.31","87.37","106.23","105.42","833","1729","1621","Pass",
+"LX10006134403"
+Reporter Calibrator
+Lot "ExpirationDate","CalibrationTime","RP1(1)Volts","RP1(1)Val","RP1(2)Volts","RP1(2)Val","Result","MachineSerialNo"
+B40643 "5/1/2016","8/12/2015 1:58:56 PM","652.01","3550.61","805.86","16142.75","Pass","LX10006134403"
+Samples "10","Min Events","100","Per Bead"
+Legend for tables
+Mutant allele(s) detected
+Wild-type and mutant alleles detected
+Sample has at least one mutant allele detected
+Call(s) not made
+Signal significant
+Primary negative control sample
+Assay-specific information
+This data file has been analyzed using the xTAG® Cystic Fibrosis v2 analysis module.  Please read the TDAS help or the software manual for details about the 
+possible genetic call, the messages, and the software in general. 
+CAUTION:  As with any hybridization-based assay, underlying polymorphisms in primer-binding regions can affect the alleles being detected and subsequently the 
+calls made.  In particular, in the case of an Mu D call, it is possible that the wild-type allele is also present but remains undetected because of interference by another
+polymorphism nearby.  Also, since many more mutations exist in the CFTR gene than are screened by this kit, the absence of mutations detected by this kit does not 
+guarantee that other CFTR mutations are not present in the samples being analyzed.
+Table of contents
+Summary 6 
+1(1,A1) / 17(1,A3)  1771A644_10127778A676-1 10 
+2(1,B1) / 18(1,B3)  1771A644_10127778A676-2 13 
+3(1,C1) / 19(1,C3)  1771A644_10127778A676-3 16 
+4(1,D1) / 20(1,D3)  1771A644_10071772A676 19 
+5(1,E1) / 21(1,E3)  1771A644_10127778A676-1b 22 
+6(1,F1) / 22(1,F3)  1771A644_10127778A676-2b 25 
+7(1,G1) / 23(1,G3)  1771A644_10127778A676-3b 28 
+8(1,H1) / 24(1,H3)  1771A644_10071772A676b 31 
+9(1,A2) / 25(1,A4)  WT 34 
+10(1,B2) / 26(1,B4)  NT 38 
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1.1 of 1(H) x 4(W)
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Location Sample Mu D Calls HET Calls Variant Calls del e2e3 E60X R75X G85E 394delTT 405+3A>C 406-1G>A 444delA R117C R117H Y122X 621+1G>T G178R 711+1G>T L206W 935delA deltaF311 1078delT G330X R334W R347P R347H R352Q
+1(1,A1) / 17(1,A3) 1771A644_10127778A676-1 Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET No Call Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+2(1,B1) / 18(1,B3) 1771A644_10127778A676-2 Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET HET Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+3(1,C1) / 19(1,C3) 1771A644_10127778A676-3 Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET HET Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+4(1,D1) / 20(1,D3) 1771A644_10071772A676 Many Many 5T/9T, I506V, I507V, F508C No Call HET Mu D HET HET Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+5(1,E1) / 21(1,E3) 1771A644_10127778A676-1b Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET No Call Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+6(1,F1) / 22(1,F3) 1771A644_10127778A676-2b Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET No Call Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+7(1,G1) / 23(1,G3) 1771A644_10127778A676-3b Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET HET Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+8(1,H1) / 24(1,H3) 1771A644_10071772A676b Many Many 5T/9T, I506V, I507V, F508C No Call Mu D Mu D HET HET Mu D HET Mu D Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+9(1,A2) / 25(1,A4) WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT
+10(1,B2) / 26(1,B4) NT
+Report page number: 6
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1.2 of 1(H) x 4(W)
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Location Sample S364P A455E G480C Q493X dI507 dF508 1677delTA V520F 1717-1G>A G542X S549N S549R(T>G) G551D R553X A559T R560T 1812-1G>A 1898+1G>A 1898+5G>T G622D 2055del9>A 2143delT 2183AA>G 2184delA K710X 2307insA
+1(1,A1) / 17(1,A3) 1771A644_10127778A676-1 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+2(1,B1) / 18(1,B3) 1771A644_10127778A676-2 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+3(1,C1) / 19(1,C3) 1771A644_10127778A676-3 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+4(1,D1) / 20(1,D3) 1771A644_10071772A676 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+5(1,E1) / 21(1,E3) 1771A644_10127778A676-1b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET HET HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+6(1,F1) / 22(1,F3) 1771A644_10127778A676-2b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+7(1,G1) / 23(1,G3) 1771A644_10127778A676-3b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D HET HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+8(1,H1) / 24(1,H3) 1771A644_10071772A676b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET HET No Call HET Mu D HET Mu D Mu D HET Mu D Mu D Mu D Mu D Mu D Mu D Mu D
+9(1,A2) / 25(1,A4) WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT
+10(1,B2) / 26(1,B4) NT
+Report page number: 7
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1.3 of 1(H) x 4(W)
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Location Sample 2789+5G>A Q890X 2869insG 3120G>A 3120+1G>A 3199del6 R1066C W1089X Y1092X-C>G Y1092X-C>A M1101K D1152H R1158X R1162X 3659delC S1196X S1255X(ex.19) S1255X(ex.20) 3791delC 3849+10kbC>T 3876delA 3905insT W1282X N1303K
+1(1,A1) / 17(1,A3) 1771A644_10127778A676-1 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+2(1,B1) / 18(1,B3) 1771A644_10127778A676-2 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+3(1,C1) / 19(1,C3) 1771A644_10127778A676-3 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+4(1,D1) / 20(1,D3) 1771A644_10071772A676 Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+5(1,E1) / 21(1,E3) 1771A644_10127778A676-1b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+6(1,F1) / 22(1,F3) 1771A644_10127778A676-2b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+7(1,G1) / 23(1,G3) 1771A644_10127778A676-3b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+8(1,H1) / 24(1,H3) 1771A644_10071772A676b Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D Mu D HET HET Mu D HET HET Mu D Mu D
+9(1,A2) / 25(1,A4) WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT WT
+10(1,B2) / 26(1,B4) NT
+Report page number: 8
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1.4 of 1(H) x 4(W)
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Location Sample 5T/7T/9T I506V,I507V,F508C Notes and explanations
+1(1,A1) / 17(1,A3) 1771A644_10127778A676-1 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+2(1,B1) / 18(1,B3) 1771A644_10127778A676-2 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+3(1,C1) / 19(1,C3) 1771A644_10127778A676-3 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+4(1,D1) / 20(1,D3) 1771A644_10071772A676 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+5(1,E1) / 21(1,E3) 1771A644_10127778A676-1b 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+6(1,F1) / 22(1,F3) 1771A644_10127778A676-2b 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+7(1,G1) / 23(1,G3) 1771A644_10127778A676-3b 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+8(1,H1) / 24(1,H3) 1771A644_10071772A676b 5T/9T D I506V,I507V,F508C D Variation(s) failed: signal(s) inadequate
+9(1,A2) / 25(1,A4) WT 7T D ND
+10(1,B2) / 26(1,B4) NT
+Report page number: 9
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 1(1,A1) / 17(1,A3)  1771A644_10127778A676-1
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 2.0 7.0 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 17.0 15.0 2.0
+E60X Mu D 833.0 3904.0 32.0 0.0 801.0 3904.0 0.17 0.83 0.85 0.20 0.25
+R75X Mu D 62.5 1740.0 24.0 6.0 38.5 1734.0 0.02 0.98 0.85 0.25 0.25
+G85E HET 2966.0 2807.0 21.5 0.0 2944.5 2807.0 0.51 0.49 0.80 0.27 0.30
+394delTT No Call 4930.0 3368.0 0.0 51.5 4930.0 3316.5 0.60 0.40 0.68 0.40 0.41 Variation failed: allelic ratio(s) not within predefined ranges
+405+3A>C Mu D 28.0 2251.0 13.5 0.0 14.5 2251.0 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 766.5 4134.0 24.0 5.5 742.5 4128.5 0.15 0.85 0.70 0.15 0.40
+444delA Mu D 91.0 2489.0 23.0 9.0 68.0 2480.0 0.03 0.97 0.82 0.25 0.28
+R117C Mu D 667.0 4081.0 0.0 2.0 667.0 4079.0 0.14 0.86 0.85 0.25 0.25
+R117H HET 5417.0 4101.0 6.0 0.0 5411.0 4101.0 0.57 0.43 0.85 0.26 0.25
+Y122X HET 2277.0 3697.0 0.0 19.5 2277.0 3677.5 0.38 0.62 0.85 0.25 0.25
+621+1G>T Mu D 50.5 3418.5 0.0 0.0 50.5 3418.5 0.01 0.99 0.85 0.25 0.25
+G178R Mu D 169.0 2516.0 11.0 7.5 158.0 2508.5 0.06 0.94 0.83 0.25 0.27
+711+1G>T Mu D 15.0 2429.0 8.0 0.0 7.0 2429.0 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 17.5 2457.0 12.0 13.0 5.5 2444.0 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 89.0 1555.0 4.0 11.5 85.0 1543.5 0.05 0.95 0.85 0.36 0.25
+deltaF311 Mu D 68.0 2883.0 3.0 12.5 65.0 2870.5 0.02 0.98 0.80 0.32 0.30
+1078delT Mu D 123.0 2231.0 9.0 10.0 114.0 2221.0 0.05 0.95 0.80 0.33 0.30
+G330X Mu D 64.0 3953.0 14.0 0.0 50.0 3953.0 0.01 0.99 0.85 0.31 0.25
+R334W Mu D 626.0 2278.0 11.5 22.0 614.5 2256.0 0.21 0.79 0.75 0.28 0.35
+R347P Mu D 65.0 2886.0 19.0 7.0 46.0 2879.0 0.01 0.53 0.85 0.27 0.25
+R347H Mu D 2515.0 11.0 2504.0 0.46 0.20
+R352Q Mu D 19.5 2168.0 9.5 12.0 10.0 2156.0 0.00 1.00 0.85 0.25 0.25
+S364P Mu D 14.0 1949.0 40.0 0.0 0.0 1949.0 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 30.5 2757.0 0.0 0.0 30.5 2757.0 0.01 0.99 0.85 0.25 0.25
+G480C Mu D 63.0 3534.5 15.0 8.5 48.0 3526.0 0.01 0.99 0.77 0.28 0.33
+Q493X Mu D 576.0 4992.0 0.0 4.0 576.0 4988.0 0.10 0.90 0.85 0.27 0.25
+dI507 Mu D 796.0 2793.0 0.0 1.0 796.0 2792.0 0.10 0.37 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 4002.0 0.0 4002.0 0.53 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 35.0 3353.0 7.0 0.0 28.0 3353.0 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 79.5 2924.0 2.0 3.0 77.5 2921.0 0.03 0.97 0.85 0.25 0.25
+1717-1G>A Mu D 82.0 2804.0 6.0 5.0 76.0 2799.0 0.03 0.97 0.85 0.30 0.25
+G542X HET 3980.0 3523.0 1.0 0.0 3979.0 3523.0 0.53 0.47 0.75 0.25 0.35
+S549N HET 4671.0 3283.0 0.0 18.0 4671.0 3265.0 0.59 0.41 0.85 0.28 0.25
+S549R(T>G) HET 3897.0 3570.0 12.0 3.0 3885.0 3567.0 0.52 0.48 0.85 0.25 0.25
+G551D No Call 4525.0 2327.5 19.0 0.0 4506.0 2327.5 0.66 0.34 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3853.0 2463.0 9.5 0.0 3843.5 2463.0 0.61 0.39 0.85 0.25 0.25
+A559T Mu D 1021.0 2638.0 1.5 0.0 1019.5 2638.0 0.28 0.72 0.80 0.29 0.30
+R560T HET 2244.0 3238.0 12.5 4.0 2231.5 3234.0 0.41 0.59 0.85 0.25 0.25
+1812-1G>A Mu D 139.5 3161.0 1.0 9.0 138.5 3152.0 0.04 0.96 0.74 0.24 0.36
+1898+1G>A HET 721.0 1958.5 15.0 2.5 706.0 1956.0 0.27 0.73 0.85 0.25 0.25
+1898+5G>T HET 2810.0 2843.0 27.0 6.5 2783.0 2836.5 0.50 0.50 0.83 0.25 0.27
+G622D Mu D 527.0 4611.0 28.0 14.0 499.0 4597.0 0.10 0.90 0.85 0.27 0.25
+2055del9>A Mu D 12.0 3707.0 15.0 10.0 0.0 3697.0 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 42.0 2447.0 0.0 3.5 42.0 2443.5 0.02 0.98 0.85 0.25 0.25
+2183AA>G Mu D 112.0 2672.0 0.0 23.0 112.0 2649.0 0.02 0.44 0.77 0.20 0.35
+2184delA Mu D 3322.0 16.0 3306.0 0.54 0.20
+K710X Mu D 52.0 2289.5 0.0 0.0 52.0 2289.5 0.02 0.98 0.75 0.15 0.35
+Report page number: 10
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 1(1,A1) / 17(1,A3)  1771A644_10127778A676-1
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 801.0 2574.0 10.0 7.5 791.0 2566.5 0.24 0.76 0.80 0.30 0.30
+2789+5G>A Mu D 52.5 2052.5 0.0 7.0 52.5 2045.5 0.03 0.97 0.85 0.25 0.25
+Q890X Mu D 216.5 3039.0 8.5 1.5 208.0 3037.5 0.06 0.94 0.85 0.25 0.25
+2869insG Mu D 47.0 3520.0 11.0 3.0 36.0 3517.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 441.5 1963.0 11.0 0.0 430.5 1963.0 0.18 0.82 0.79 0.29 0.31
+3120+1G>A Mu D 54.5 1613.0 0.0 6.0 54.5 1607.0 0.03 0.97 0.85 0.25 0.25
+3199del6 Mu D 25.5 2230.0 14.5 20.0 11.0 2210.0 0.00 1.00 0.85 0.26 0.25
+R1066C Mu D 86.5 2604.0 33.0 0.0 53.5 2604.0 0.02 0.98 0.85 0.26 0.25
+W1089X Mu D 91.0 2603.5 26.0 5.0 65.0 2598.5 0.02 0.98 0.83 0.30 0.27
+Y1092X-C>G Mu D 89.0 3474.0 33.0 6.0 56.0 3468.0 0.01 0.50 0.75 0.25 0.30
+Y1092X-C>A Mu D 3380.5 20.0 3360.5 0.49 0.30
+M1101K Mu D 56.0 2326.0 13.0 0.0 43.0 2326.0 0.02 0.98 0.81 0.25 0.29
+D1152H Mu D 60.0 3466.0 0.0 26.0 60.0 3440.0 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 161.0 4911.0 8.0 0.0 153.0 4911.0 0.03 0.97 0.85 0.25 0.25
+R1162X Mu D 148.0 2632.0 21.0 0.0 127.0 2632.0 0.05 0.95 0.85 0.30 0.25
+3659delC Mu D 695.0 3647.0 0.0 26.0 695.0 3621.0 0.16 0.84 0.81 0.31 0.29
+S1196X Mu D 8.0 2378.0 0.0 0.0 8.0 2378.0 0.00 1.00 0.79 0.25 0.31
+S1255X(ex.19) Mu D 59.0 1648.0 26.0 13.0 33.0 1635.0 0.02 0.98 0.85 0.28 0.25
+S1255X(ex.20) HET 2444.5 3616.5 0.0 0.0 2444.5 3616.5 0.40 0.60 0.85 0.25 0.25
+3791delC HET 802.0 1988.0 11.0 2.0 791.0 1986.0 0.28 0.72 0.80 0.25 0.30
+3849+10kbC>T Mu D 275.0 1969.5 12.0 0.0 263.0 1969.5 0.12 0.88 0.82 0.26 0.28
+3876delA HET 4472.0 3296.0 2.0 5.0 4470.0 3291.0 0.58 0.42 0.80 0.25 0.30
+3905insT HET 2742.0 2449.0 0.0 5.0 2742.0 2444.0 0.53 0.47 0.80 0.35 0.30
+W1282X Mu D 49.0 3035.0 34.5 0.0 14.5 3035.0 0.00 1.00 0.85 0.25 0.25
+N1303K Mu D 40.5 2562.0 6.5 0.0 34.0 2562.0 0.01 0.99 0.85 0.25 0.25
+5T 5T/9T D 3078.5 2.0 3076.5 0.38 0.30
+7T 1615.0 8.5 1606.5 0.20 0.30
+9T 3371.5 0.0 3371.5 0.42 0.25
+I506V I506V,I507V,F508C D 699.5 4.0 695.5 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1302.0 0.0 1302.0
+F508C 1835.5 19.0 1816.5
+Report page number: 11
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 1(1,A1) / 17(1,A3)  1771A644_10127778A676-1
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 12
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 2(1,B1) / 18(1,B3)  1771A644_10127778A676-2
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 14.5 7.0 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 5.0 15.0 0.0
+E60X Mu D 894.0 4327.0 32.0 0.0 862.0 4327.0 0.17 0.83 0.85 0.20 0.25
+R75X Mu D 42.0 1721.5 24.0 6.0 18.0 1715.5 0.01 0.99 0.85 0.25 0.25
+G85E HET 3186.5 2921.0 21.5 0.0 3165.0 2921.0 0.52 0.48 0.80 0.27 0.30
+394delTT HET 4806.0 3471.0 0.0 51.5 4806.0 3419.5 0.58 0.42 0.68 0.40 0.41
+405+3A>C Mu D 21.0 2211.0 13.5 0.0 7.5 2211.0 0.00 1.00 0.81 0.25 0.29
+406-1G>A HET 954.5 3988.5 24.0 5.5 930.5 3983.0 0.19 0.81 0.70 0.15 0.40
+444delA Mu D 126.0 2386.0 23.0 9.0 103.0 2377.0 0.04 0.96 0.82 0.25 0.28
+R117C Mu D 840.0 4267.0 0.0 2.0 840.0 4265.0 0.16 0.84 0.85 0.25 0.25
+R117H HET 5424.5 4073.0 6.0 0.0 5418.5 4073.0 0.57 0.43 0.85 0.26 0.25
+Y122X HET 2189.5 3845.5 0.0 19.5 2189.5 3826.0 0.36 0.64 0.85 0.25 0.25
+621+1G>T Mu D 52.0 3725.5 0.0 0.0 52.0 3725.5 0.01 0.99 0.85 0.25 0.25
+G178R Mu D 249.0 2461.0 11.0 7.5 238.0 2453.5 0.09 0.91 0.83 0.25 0.27
+711+1G>T Mu D 1.0 2528.0 8.0 0.0 0.0 2528.0 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 3.0 2513.0 12.0 13.0 0.0 2500.0 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 90.5 1633.0 4.0 11.5 86.5 1621.5 0.05 0.95 0.85 0.36 0.25
+deltaF311 Mu D 99.0 2763.0 3.0 12.5 96.0 2750.5 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 126.0 2326.0 9.0 10.0 117.0 2316.0 0.05 0.95 0.80 0.33 0.30
+G330X Mu D 76.0 4041.0 14.0 0.0 62.0 4041.0 0.02 0.98 0.85 0.31 0.25
+R334W Mu D 658.0 2307.0 11.5 22.0 646.5 2285.0 0.22 0.78 0.75 0.28 0.35
+R347P Mu D 53.0 3032.0 19.0 7.0 34.0 3025.0 0.01 0.54 0.85 0.27 0.25
+R347H Mu D 2546.5 11.0 2535.5 0.45 0.20
+R352Q Mu D 18.0 2242.0 9.5 12.0 8.5 2230.0 0.00 1.00 0.85 0.25 0.25
+S364P Mu D 31.0 2269.0 40.0 0.0 0.0 2269.0 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 12.0 2737.0 0.0 0.0 12.0 2737.0 0.00 1.00 0.85 0.25 0.25
+G480C Mu D 97.0 3493.0 15.0 8.5 82.0 3484.5 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 786.0 5364.0 0.0 4.0 786.0 5360.0 0.13 0.87 0.85 0.27 0.25
+dI507 Mu D 811.0 2851.0 0.0 1.0 811.0 2850.0 0.10 0.37 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 4096.0 0.0 4096.0 0.53 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 49.5 3309.5 7.0 0.0 42.5 3309.5 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 81.5 3098.0 2.0 3.0 79.5 3095.0 0.03 0.97 0.85 0.25 0.25
+1717-1G>A Mu D 117.0 3083.0 6.0 5.0 111.0 3078.0 0.03 0.97 0.85 0.30 0.25
+G542X HET 4086.5 3604.5 1.0 0.0 4085.5 3604.5 0.53 0.47 0.75 0.25 0.35
+S549N HET 4425.5 3374.5 0.0 18.0 4425.5 3356.5 0.57 0.43 0.85 0.28 0.25
+S549R(T>G) HET 3828.0 3566.5 12.0 3.0 3816.0 3563.5 0.52 0.48 0.85 0.25 0.25
+G551D No Call 4671.0 2362.0 19.0 0.0 4652.0 2362.0 0.66 0.34 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 4113.0 2344.0 9.5 0.0 4103.5 2344.0 0.64 0.36 0.85 0.25 0.25
+A559T Mu D 1057.0 2675.0 1.5 0.0 1055.5 2675.0 0.28 0.72 0.80 0.29 0.30
+R560T HET 2208.5 3264.5 12.5 4.0 2196.0 3260.5 0.40 0.60 0.85 0.25 0.25
+1812-1G>A Mu D 210.0 3237.0 1.0 9.0 209.0 3228.0 0.06 0.94 0.74 0.24 0.36
+1898+1G>A HET 683.0 1868.0 15.0 2.5 668.0 1865.5 0.26 0.74 0.85 0.25 0.25
+1898+5G>T HET 2924.5 3062.0 27.0 6.5 2897.5 3055.5 0.49 0.51 0.83 0.25 0.27
+G622D Mu D 726.0 4818.0 28.0 14.0 698.0 4804.0 0.13 0.87 0.85 0.27 0.25
+2055del9>A Mu D 8.0 3712.5 15.0 10.0 0.0 3702.5 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 27.0 2494.0 0.0 3.5 27.0 2490.5 0.01 0.99 0.85 0.25 0.25
+2183AA>G Mu D 83.0 2679.0 0.0 23.0 83.0 2656.0 0.01 0.42 0.77 0.20 0.35
+2184delA Mu D 3594.0 16.0 3578.0 0.57 0.20
+K710X Mu D 45.0 2439.0 0.0 0.0 45.0 2439.0 0.02 0.98 0.75 0.15 0.35
+Report page number: 13
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 2(1,B1) / 18(1,B3)  1771A644_10127778A676-2
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 832.5 2572.5 10.0 7.5 822.5 2565.0 0.24 0.76 0.80 0.30 0.30
+2789+5G>A Mu D 43.0 2095.0 0.0 7.0 43.0 2088.0 0.02 0.98 0.85 0.25 0.25
+Q890X Mu D 367.0 3088.0 8.5 1.5 358.5 3086.5 0.10 0.90 0.85 0.25 0.25
+2869insG Mu D 33.5 3670.0 11.0 3.0 22.5 3667.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 571.0 2169.0 11.0 0.0 560.0 2169.0 0.21 0.79 0.79 0.29 0.31
+3120+1G>A Mu D 19.0 1606.0 0.0 6.0 19.0 1600.0 0.01 0.99 0.85 0.25 0.25
+3199del6 Mu D 46.0 2158.0 14.5 20.0 31.5 2138.0 0.01 0.99 0.85 0.26 0.25
+R1066C Mu D 130.0 2760.0 33.0 0.0 97.0 2760.0 0.03 0.97 0.85 0.26 0.25
+W1089X Mu D 128.0 2501.0 26.0 5.0 102.0 2496.0 0.04 0.96 0.83 0.30 0.27
+Y1092X-C>G Mu D 64.0 3395.0 33.0 6.0 31.0 3389.0 0.00 0.50 0.75 0.25 0.30
+Y1092X-C>A Mu D 3393.5 20.0 3373.5 0.50 0.30
+M1101K Mu D 65.0 2429.5 13.0 0.0 52.0 2429.5 0.02 0.98 0.81 0.25 0.29
+D1152H Mu D 60.0 3334.0 0.0 26.0 60.0 3308.0 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 176.5 4813.5 8.0 0.0 168.5 4813.5 0.03 0.97 0.85 0.25 0.25
+R1162X Mu D 125.0 2661.0 21.0 0.0 104.0 2661.0 0.04 0.96 0.85 0.30 0.25
+3659delC Mu D 705.0 3610.0 0.0 26.0 705.0 3584.0 0.16 0.84 0.81 0.31 0.29
+S1196X Mu D 0.0 2346.5 0.0 0.0 0.0 2346.5 0.00 1.00 0.79 0.25 0.31
+S1255X(ex.19) Mu D 20.0 1711.0 26.0 13.0 0.0 1698.0 0.00 1.00 0.85 0.28 0.25
+S1255X(ex.20) HET 2511.0 3356.0 0.0 0.0 2511.0 3356.0 0.43 0.57 0.85 0.25 0.25
+3791delC HET 902.0 2063.0 11.0 2.0 891.0 2061.0 0.30 0.70 0.80 0.25 0.30
+3849+10kbC>T Mu D 295.0 1922.0 12.0 0.0 283.0 1922.0 0.13 0.87 0.82 0.26 0.28
+3876delA HET 4581.0 3609.0 2.0 5.0 4579.0 3604.0 0.56 0.44 0.80 0.25 0.30
+3905insT HET 2594.0 2629.0 0.0 5.0 2594.0 2624.0 0.50 0.50 0.80 0.35 0.30
+W1282X Mu D 53.0 3143.5 34.5 0.0 18.5 3143.5 0.01 0.99 0.85 0.25 0.25
+N1303K Mu D 0.0 2665.0 6.5 0.0 0.0 2665.0 0.00 1.00 0.85 0.25 0.25
+5T 5T/9T D 3090.0 2.0 3088.0 0.38 0.30
+7T 1620.5 8.5 1612.0 0.20 0.30
+9T 3511.0 0.0 3511.0 0.43 0.25
+I506V I506V,I507V,F508C D 745.0 4.0 741.0 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1333.0 0.0 1333.0
+F508C 1888.0 19.0 1869.0
+Report page number: 14
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 2(1,B1) / 18(1,B3)  1771A644_10127778A676-2
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 15
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 3(1,C1) / 19(1,C3)  1771A644_10127778A676-3
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 18.0 3.5 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 13.5 15.0 0.0
+E60X Mu D 1001.0 4255.5 32.0 0.0 969.0 4255.5 0.19 0.81 0.85 0.20 0.25
+R75X Mu D 72.5 1731.5 24.0 6.0 48.5 1725.5 0.03 0.97 0.85 0.25 0.25
+G85E HET 3285.5 2840.0 21.5 0.0 3264.0 2840.0 0.53 0.47 0.80 0.27 0.30
+394delTT HET 4685.0 3285.5 0.0 51.5 4685.0 3234.0 0.59 0.41 0.68 0.40 0.41
+405+3A>C Mu D 29.0 2465.0 13.5 0.0 15.5 2465.0 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 988.0 4077.0 24.0 5.5 964.0 4071.5 0.19 0.81 0.70 0.15 0.40
+444delA Mu D 109.0 2418.5 23.0 9.0 86.0 2409.5 0.03 0.97 0.82 0.25 0.28
+R117C Mu D 864.0 4047.5 0.0 2.0 864.0 4045.5 0.18 0.82 0.85 0.25 0.25
+R117H HET 5435.5 3697.5 6.0 0.0 5429.5 3697.5 0.59 0.41 0.85 0.26 0.25
+Y122X HET 2456.0 3719.5 0.0 19.5 2456.0 3700.0 0.40 0.60 0.85 0.25 0.25
+621+1G>T Mu D 74.0 3443.0 0.0 0.0 74.0 3443.0 0.02 0.98 0.85 0.25 0.25
+G178R Mu D 273.0 2561.0 11.0 7.5 262.0 2553.5 0.09 0.91 0.83 0.25 0.27
+711+1G>T Mu D 0.0 2430.5 8.0 0.0 0.0 2430.5 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 21.5 2578.5 12.0 13.0 9.5 2565.5 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 89.0 1698.0 4.0 11.5 85.0 1686.5 0.05 0.95 0.85 0.36 0.25
+deltaF311 Mu D 97.0 2954.5 3.0 12.5 94.0 2942.0 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 146.0 2319.0 9.0 10.0 137.0 2309.0 0.06 0.94 0.80 0.33 0.30
+G330X Mu D 77.5 4204.0 14.0 0.0 63.5 4204.0 0.01 0.99 0.85 0.31 0.25
+R334W Mu D 606.0 2204.0 11.5 22.0 594.5 2182.0 0.21 0.79 0.75 0.28 0.35
+R347P Mu D 42.0 2780.0 19.0 7.0 23.0 2773.0 0.00 0.52 0.85 0.27 0.25
+R347H Mu D 2578.0 11.0 2567.0 0.48 0.20
+R352Q Mu D 29.5 2480.5 9.5 12.0 20.0 2468.5 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 28.0 2120.0 40.0 0.0 0.0 2120.0 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 24.0 2619.0 0.0 0.0 24.0 2619.0 0.01 0.99 0.85 0.25 0.25
+G480C Mu D 58.5 3739.0 15.0 8.5 43.5 3730.5 0.01 0.99 0.77 0.28 0.33
+Q493X Mu D 747.0 5495.5 0.0 4.0 747.0 5491.5 0.12 0.88 0.85 0.27 0.25
+dI507 Mu D 771.0 2689.0 0.0 1.0 771.0 2688.0 0.10 0.36 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 3971.0 0.0 3971.0 0.53 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 57.0 3648.0 7.0 0.0 50.0 3648.0 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 83.5 2939.0 2.0 3.0 81.5 2936.0 0.03 0.97 0.85 0.25 0.25
+1717-1G>A Mu D 101.0 2870.5 6.0 5.0 95.0 2865.5 0.03 0.97 0.85 0.30 0.25
+G542X HET 4202.0 3381.5 1.0 0.0 4201.0 3381.5 0.55 0.45 0.75 0.25 0.35
+S549N HET 4622.0 3135.0 0.0 18.0 4622.0 3117.0 0.60 0.40 0.85 0.28 0.25
+S549R(T>G) HET 3953.0 3448.0 12.0 3.0 3941.0 3445.0 0.53 0.47 0.85 0.25 0.25
+G551D No Call 4708.0 2171.5 19.0 0.0 4689.0 2171.5 0.68 0.32 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3736.0 2277.0 9.5 0.0 3726.5 2277.0 0.62 0.38 0.85 0.25 0.25
+A559T Mu D 1007.0 2546.0 1.5 0.0 1005.5 2546.0 0.28 0.72 0.80 0.29 0.30
+R560T HET 2182.0 3399.0 12.5 4.0 2169.5 3395.0 0.39 0.61 0.85 0.25 0.25
+1812-1G>A Mu D 226.0 3346.0 1.0 9.0 225.0 3337.0 0.06 0.94 0.74 0.24 0.36
+1898+1G>A HET 654.5 1812.0 15.0 2.5 639.5 1809.5 0.26 0.74 0.85 0.25 0.25
+1898+5G>T HET 2849.0 3011.0 27.0 6.5 2822.0 3004.5 0.48 0.52 0.83 0.25 0.27
+G622D Mu D 710.0 4798.0 28.0 14.0 682.0 4784.0 0.12 0.88 0.85 0.27 0.25
+2055del9>A Mu D 0.0 3816.0 15.0 10.0 0.0 3806.0 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 47.0 2500.0 0.0 3.5 47.0 2496.5 0.02 0.98 0.85 0.25 0.25
+2183AA>G Mu D 66.0 2646.0 0.0 23.0 66.0 2623.0 0.01 0.42 0.77 0.20 0.35
+2184delA Mu D 3574.5 16.0 3558.5 0.57 0.20
+K710X Mu D 51.0 2470.0 0.0 0.0 51.0 2470.0 0.02 0.98 0.75 0.15 0.35
+Report page number: 16
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 3(1,C1) / 19(1,C3)  1771A644_10127778A676-3
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 762.0 2637.0 10.0 7.5 752.0 2629.5 0.22 0.78 0.80 0.30 0.30
+2789+5G>A Mu D 45.0 1920.0 0.0 7.0 45.0 1913.0 0.02 0.98 0.85 0.25 0.25
+Q890X Mu D 365.0 3342.0 8.5 1.5 356.5 3340.5 0.10 0.90 0.85 0.25 0.25
+2869insG Mu D 36.0 3862.0 11.0 3.0 25.0 3859.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 579.0 2088.0 11.0 0.0 568.0 2088.0 0.21 0.79 0.79 0.29 0.31
+3120+1G>A Mu D 49.0 1640.0 0.0 6.0 49.0 1634.0 0.03 0.97 0.85 0.25 0.25
+3199del6 Mu D 46.0 2257.0 14.5 20.0 31.5 2237.0 0.01 0.99 0.85 0.26 0.25
+R1066C Mu D 126.0 2773.5 33.0 0.0 93.0 2773.5 0.03 0.97 0.85 0.26 0.25
+W1089X Mu D 127.0 2595.0 26.0 5.0 101.0 2590.0 0.04 0.96 0.83 0.30 0.27
+Y1092X-C>G Mu D 68.0 3604.0 33.0 6.0 35.0 3598.0 0.01 0.53 0.75 0.25 0.30
+Y1092X-C>A Mu D 3202.5 20.0 3182.5 0.47 0.30
+M1101K Mu D 41.0 2503.5 13.0 0.0 28.0 2503.5 0.01 0.99 0.81 0.25 0.29
+D1152H Mu D 52.5 3677.0 0.0 26.0 52.5 3651.0 0.01 0.99 0.85 0.26 0.25
+R1158X Mu D 198.0 5060.0 8.0 0.0 190.0 5060.0 0.04 0.96 0.85 0.25 0.25
+R1162X Mu D 136.0 2544.0 21.0 0.0 115.0 2544.0 0.04 0.96 0.85 0.30 0.25
+3659delC Mu D 710.0 3581.0 0.0 26.0 710.0 3555.0 0.17 0.83 0.81 0.31 0.29
+S1196X Mu D 10.5 2266.5 0.0 0.0 10.5 2266.5 0.00 1.00 0.79 0.25 0.31
+S1255X(ex.19) Mu D 30.0 1680.0 26.0 13.0 4.0 1667.0 0.00 1.00 0.85 0.28 0.25
+S1255X(ex.20) HET 2306.0 3562.5 0.0 0.0 2306.0 3562.5 0.39 0.61 0.85 0.25 0.25
+3791delC HET 974.0 2074.0 11.0 2.0 963.0 2072.0 0.32 0.68 0.80 0.25 0.30
+3849+10kbC>T Mu D 220.0 1882.5 12.0 0.0 208.0 1882.5 0.10 0.90 0.82 0.26 0.28
+3876delA HET 4769.0 3410.5 2.0 5.0 4767.0 3405.5 0.58 0.42 0.80 0.25 0.30
+3905insT HET 2618.5 2593.0 0.0 5.0 2618.5 2588.0 0.50 0.50 0.80 0.35 0.30
+W1282X Mu D 34.5 3074.0 34.5 0.0 0.0 3074.0 0.00 1.00 0.85 0.25 0.25
+N1303K Mu D 8.0 2689.0 6.5 0.0 1.5 2689.0 0.00 1.00 0.85 0.25 0.25
+5T 5T/9T D 3043.0 2.0 3041.0 0.38 0.30
+7T 1527.0 8.5 1518.5 0.19 0.30
+9T 3346.0 0.0 3346.0 0.42 0.25
+I506V I506V,I507V,F508C D 663.0 4.0 659.0 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1324.0 0.0 1324.0
+F508C 1843.0 19.0 1824.0
+Report page number: 17
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 3(1,C1) / 19(1,C3)  1771A644_10127778A676-3
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 18
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 4(1,D1) / 20(1,D3)  1771A644_10071772A676
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 8.5 5.0 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 19.0 15.0 4.0
+E60X HET 1068.0 4178.0 32.0 0.0 1036.0 4178.0 0.20 0.80 0.85 0.20 0.25
+R75X Mu D 58.0 1981.5 24.0 6.0 34.0 1975.5 0.02 0.98 0.85 0.25 0.25
+G85E HET 3002.0 2658.0 21.5 0.0 2980.5 2658.0 0.53 0.47 0.80 0.27 0.30
+394delTT HET 4345.5 3112.0 0.0 51.5 4345.5 3060.5 0.59 0.41 0.68 0.40 0.41
+405+3A>C Mu D 8.0 2531.0 13.5 0.0 0.0 2531.0 0.00 1.00 0.81 0.25 0.29
+406-1G>A HET 1101.0 4472.0 24.0 5.5 1077.0 4466.5 0.19 0.81 0.70 0.15 0.40
+444delA Mu D 139.0 2707.5 23.0 9.0 116.0 2698.5 0.04 0.96 0.82 0.25 0.28
+R117C Mu D 919.0 4419.0 0.0 2.0 919.0 4417.0 0.17 0.83 0.85 0.25 0.25
+R117H HET 5107.0 3361.0 6.0 0.0 5101.0 3361.0 0.60 0.40 0.85 0.26 0.25
+Y122X HET 2104.0 3453.0 0.0 19.5 2104.0 3433.5 0.38 0.62 0.85 0.25 0.25
+621+1G>T Mu D 48.0 3120.0 0.0 0.0 48.0 3120.0 0.02 0.98 0.85 0.25 0.25
+G178R Mu D 261.0 2596.0 11.0 7.5 250.0 2588.5 0.09 0.91 0.83 0.25 0.27
+711+1G>T Mu D 23.5 2382.5 8.0 0.0 15.5 2382.5 0.01 0.99 0.85 0.25 0.25
+L206W Mu D 37.0 3102.0 12.0 13.0 25.0 3089.0 0.01 0.99 0.85 0.25 0.25
+935delA Mu D 65.0 1525.5 4.0 11.5 61.0 1514.0 0.04 0.96 0.85 0.36 0.25
+deltaF311 Mu D 120.0 3265.0 3.0 12.5 117.0 3252.5 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 118.0 2213.0 9.0 10.0 109.0 2203.0 0.05 0.95 0.80 0.33 0.30
+G330X Mu D 71.5 4084.5 14.0 0.0 57.5 4084.5 0.01 0.99 0.85 0.31 0.25
+R334W Mu D 518.0 2033.0 11.5 22.0 506.5 2011.0 0.20 0.80 0.75 0.28 0.35
+R347P Mu D 36.0 2565.0 19.0 7.0 17.0 2558.0 0.00 0.53 0.85 0.27 0.25
+R347H Mu D 2308.0 11.0 2297.0 0.47 0.20
+R352Q Mu D 40.0 2612.5 9.5 12.0 30.5 2600.5 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 41.5 2169.0 40.0 0.0 1.5 2169.0 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 3.0 2466.0 0.0 0.0 3.0 2466.0 0.00 1.00 0.85 0.25 0.25
+G480C Mu D 73.0 3636.5 15.0 8.5 58.0 3628.0 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 763.0 5431.0 0.0 4.0 763.0 5427.0 0.12 0.88 0.85 0.27 0.25
+dI507 Mu D 743.0 2719.5 0.0 1.0 743.0 2718.5 0.11 0.39 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 3518.0 0.0 3518.0 0.50 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 44.0 3463.0 7.0 0.0 37.0 3463.0 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 40.5 2702.5 2.0 3.0 38.5 2699.5 0.01 0.99 0.85 0.25 0.25
+1717-1G>A Mu D 79.5 2702.0 6.0 5.0 73.5 2697.0 0.03 0.97 0.85 0.30 0.25
+G542X HET 3762.0 3322.0 1.0 0.0 3761.0 3322.0 0.53 0.47 0.75 0.25 0.35
+S549N HET 4149.0 2954.0 0.0 18.0 4149.0 2936.0 0.59 0.41 0.85 0.28 0.25
+S549R(T>G) HET 3377.0 3249.0 12.0 3.0 3365.0 3246.0 0.51 0.49 0.85 0.25 0.25
+G551D No Call 4408.0 2049.0 19.0 0.0 4389.0 2049.0 0.68 0.32 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3363.0 2211.5 9.5 0.0 3353.5 2211.5 0.60 0.40 0.85 0.25 0.25
+A559T Mu D 867.0 2300.5 1.5 0.0 865.5 2300.5 0.27 0.73 0.80 0.29 0.30
+R560T HET 2006.0 3088.0 12.5 4.0 1993.5 3084.0 0.39 0.61 0.85 0.25 0.25
+1812-1G>A Mu D 189.0 3044.0 1.0 9.0 188.0 3035.0 0.06 0.94 0.74 0.24 0.36
+1898+1G>A HET 659.5 1723.0 15.0 2.5 644.5 1720.5 0.27 0.73 0.85 0.25 0.25
+1898+5G>T HET 2633.0 2716.0 27.0 6.5 2606.0 2709.5 0.49 0.51 0.83 0.25 0.27
+G622D Mu D 741.0 5008.5 28.0 14.0 713.0 4994.5 0.12 0.88 0.85 0.27 0.25
+2055del9>A Mu D 11.5 4165.5 15.0 10.0 0.0 4155.5 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 28.0 2680.0 0.0 3.5 28.0 2676.5 0.01 0.99 0.85 0.25 0.25
+2183AA>G Mu D 75.0 2465.0 0.0 23.0 75.0 2442.0 0.01 0.43 0.77 0.20 0.35
+2184delA Mu D 3179.0 16.0 3163.0 0.56 0.20
+K710X Mu D 46.0 2598.0 0.0 0.0 46.0 2598.0 0.02 0.98 0.75 0.15 0.35
+Report page number: 19
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 4(1,D1) / 20(1,D3)  1771A644_10071772A676
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 678.0 2578.0 10.0 7.5 668.0 2570.5 0.21 0.79 0.80 0.30 0.30
+2789+5G>A Mu D 45.5 1862.0 0.0 7.0 45.5 1855.0 0.02 0.98 0.85 0.25 0.25
+Q890X Mu D 356.0 3557.0 8.5 1.5 347.5 3555.5 0.09 0.91 0.85 0.25 0.25
+2869insG Mu D 61.0 4092.0 11.0 3.0 50.0 4089.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 619.0 2372.0 11.0 0.0 608.0 2372.0 0.20 0.80 0.79 0.29 0.31
+3120+1G>A Mu D 44.0 1502.0 0.0 6.0 44.0 1496.0 0.03 0.97 0.85 0.25 0.25
+3199del6 Mu D 44.0 2512.0 14.5 20.0 29.5 2492.0 0.01 0.99 0.85 0.26 0.25
+R1066C Mu D 114.5 2993.0 33.0 0.0 81.5 2993.0 0.03 0.97 0.85 0.26 0.25
+W1089X Mu D 114.0 2797.0 26.0 5.0 88.0 2792.0 0.03 0.97 0.83 0.30 0.27
+Y1092X-C>G Mu D 78.0 3216.0 33.0 6.0 45.0 3210.0 0.01 0.51 0.75 0.25 0.30
+Y1092X-C>A Mu D 3076.0 20.0 3056.0 0.48 0.30
+M1101K Mu D 72.5 2186.0 13.0 0.0 59.5 2186.0 0.03 0.97 0.81 0.25 0.29
+D1152H Mu D 67.0 3488.0 0.0 26.0 67.0 3462.0 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 236.0 5065.5 8.0 0.0 228.0 5065.5 0.04 0.96 0.85 0.25 0.25
+R1162X Mu D 122.5 2354.0 21.0 0.0 101.5 2354.0 0.04 0.96 0.85 0.30 0.25
+3659delC Mu D 597.5 3231.5 0.0 26.0 597.5 3205.5 0.16 0.84 0.81 0.31 0.29
+S1196X Mu D 23.0 2661.0 0.0 0.0 23.0 2661.0 0.01 0.99 0.79 0.25 0.31
+S1255X(ex.19) Mu D 14.0 1499.0 26.0 13.0 0.0 1486.0 0.00 1.00 0.85 0.28 0.25
+S1255X(ex.20) HET 2220.0 3021.0 0.0 0.0 2220.0 3021.0 0.42 0.58 0.85 0.25 0.25
+3791delC HET 1006.0 2261.0 11.0 2.0 995.0 2259.0 0.31 0.69 0.80 0.25 0.30
+3849+10kbC>T Mu D 232.0 1834.0 12.0 0.0 220.0 1834.0 0.11 0.89 0.82 0.26 0.28
+3876delA HET 4262.0 2840.0 2.0 5.0 4260.0 2835.0 0.60 0.40 0.80 0.25 0.30
+3905insT HET 2456.0 2267.0 0.0 5.0 2456.0 2262.0 0.52 0.48 0.80 0.35 0.30
+W1282X Mu D 52.0 2809.5 34.5 0.0 17.5 2809.5 0.01 0.99 0.85 0.25 0.25
+N1303K Mu D 5.0 2330.5 6.5 0.0 0.0 2330.5 0.00 1.00 0.85 0.25 0.25
+5T 5T/9T D 2662.0 2.0 2660.0 0.37 0.30
+7T 1416.5 8.5 1408.0 0.19 0.30
+9T 3171.5 0.0 3171.5 0.44 0.25
+I506V I506V,I507V,F508C D 616.0 4.0 612.0 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1156.0 0.0 1156.0
+F508C 1570.0 19.0 1551.0
+Report page number: 20
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 4(1,D1) / 20(1,D3)  1771A644_10071772A676
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 21
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 5(1,E1) / 21(1,E3)  1771A644_10127778A676-1b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 8.0 1.5 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 24.0 15.0 9.0
+E60X Mu D 908.0 3900.0 32.0 0.0 876.0 3900.0 0.18 0.82 0.85 0.20 0.25
+R75X Mu D 53.0 1702.0 24.0 6.0 29.0 1696.0 0.02 0.98 0.85 0.25 0.25
+G85E HET 2957.0 2833.5 21.5 0.0 2935.5 2833.5 0.51 0.49 0.80 0.27 0.30
+394delTT No Call 4751.0 3281.0 0.0 51.5 4751.0 3229.5 0.60 0.40 0.68 0.40 0.41 Variation failed: allelic ratio(s) not within predefined ranges
+405+3A>C Mu D 45.0 2380.5 13.5 0.0 31.5 2380.5 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 834.0 3980.0 24.0 5.5 810.0 3974.5 0.17 0.83 0.70 0.15 0.40
+444delA Mu D 105.5 2387.0 23.0 9.0 82.5 2378.0 0.03 0.97 0.82 0.25 0.28
+R117C Mu D 754.5 4168.5 0.0 2.0 754.5 4166.5 0.15 0.85 0.85 0.25 0.25
+R117H HET 5343.0 4017.0 6.0 0.0 5337.0 4017.0 0.57 0.43 0.85 0.26 0.25
+Y122X HET 2258.0 3636.0 0.0 19.5 2258.0 3616.5 0.38 0.62 0.85 0.25 0.25
+621+1G>T Mu D 73.5 3394.5 0.0 0.0 73.5 3394.5 0.02 0.98 0.85 0.25 0.25
+G178R Mu D 215.0 2494.0 11.0 7.5 204.0 2486.5 0.08 0.92 0.83 0.25 0.27
+711+1G>T Mu D 4.0 2508.0 8.0 0.0 0.0 2508.0 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 18.5 2663.5 12.0 13.0 6.5 2650.5 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 97.5 1658.0 4.0 11.5 93.5 1646.5 0.05 0.95 0.85 0.36 0.25
+deltaF311 Mu D 108.5 2985.0 3.0 12.5 105.5 2972.5 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 153.0 2128.0 9.0 10.0 144.0 2118.0 0.06 0.94 0.80 0.33 0.30
+G330X Mu D 89.0 4059.0 14.0 0.0 75.0 4059.0 0.02 0.98 0.85 0.31 0.25
+R334W Mu D 692.0 2242.5 11.5 22.0 680.5 2220.5 0.23 0.77 0.75 0.28 0.35
+R347P Mu D 61.0 2735.0 19.0 7.0 42.0 2728.0 0.01 0.52 0.85 0.27 0.25
+R347H Mu D 2513.0 11.0 2502.0 0.47 0.20
+R352Q Mu D 37.0 2419.0 9.5 12.0 27.5 2407.0 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 7.0 2145.5 40.0 0.0 0.0 2145.5 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 26.0 2545.0 0.0 0.0 26.0 2545.0 0.01 0.99 0.85 0.25 0.25
+G480C Mu D 80.0 3596.0 15.0 8.5 65.0 3587.5 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 663.0 5536.5 0.0 4.0 663.0 5532.5 0.11 0.89 0.85 0.27 0.25
+dI507 Mu D 822.0 3014.5 0.0 1.0 822.0 3013.5 0.10 0.38 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 4112.0 0.0 4112.0 0.52 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 59.0 3434.5 7.0 0.0 52.0 3434.5 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 73.0 2938.0 2.0 3.0 71.0 2935.0 0.02 0.98 0.85 0.25 0.25
+1717-1G>A Mu D 137.5 2906.5 6.0 5.0 131.5 2901.5 0.04 0.96 0.85 0.30 0.25
+G542X HET 4066.5 3363.0 1.0 0.0 4065.5 3363.0 0.55 0.45 0.75 0.25 0.35
+S549N HET 4476.0 3239.5 0.0 18.0 4476.0 3221.5 0.58 0.42 0.85 0.28 0.25
+S549R(T>G) HET 3700.0 3571.0 12.0 3.0 3688.0 3568.0 0.51 0.49 0.85 0.25 0.25
+G551D No Call 4465.0 2331.0 19.0 0.0 4446.0 2331.0 0.66 0.34 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3832.0 2142.5 9.5 0.0 3822.5 2142.5 0.64 0.36 0.85 0.25 0.25
+A559T HET 1004.0 2467.5 1.5 0.0 1002.5 2467.5 0.29 0.71 0.80 0.29 0.30
+R560T HET 2178.0 3308.0 12.5 4.0 2165.5 3304.0 0.40 0.60 0.85 0.25 0.25
+1812-1G>A Mu D 164.0 3051.0 1.0 9.0 163.0 3042.0 0.05 0.95 0.74 0.24 0.36
+1898+1G>A HET 685.0 1826.5 15.0 2.5 670.0 1824.0 0.27 0.73 0.85 0.25 0.25
+1898+5G>T HET 2941.0 2926.0 27.0 6.5 2914.0 2919.5 0.50 0.50 0.83 0.25 0.27
+G622D Mu D 594.0 4807.0 28.0 14.0 566.0 4793.0 0.11 0.89 0.85 0.27 0.25
+2055del9>A Mu D 8.0 3901.0 15.0 10.0 0.0 3891.0 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 35.0 2463.0 0.0 3.5 35.0 2459.5 0.01 0.99 0.85 0.25 0.25
+2183AA>G Mu D 85.5 2641.0 0.0 23.0 85.5 2618.0 0.01 0.44 0.77 0.20 0.35
+2184delA Mu D 3316.5 16.0 3300.5 0.55 0.20
+K710X Mu D 41.0 2273.0 0.0 0.0 41.0 2273.0 0.02 0.98 0.75 0.15 0.35
+Report page number: 22
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 5(1,E1) / 21(1,E3)  1771A644_10127778A676-1b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 859.0 2771.0 10.0 7.5 849.0 2763.5 0.24 0.76 0.80 0.30 0.30
+2789+5G>A Mu D 61.5 2027.5 0.0 7.0 61.5 2020.5 0.03 0.97 0.85 0.25 0.25
+Q890X Mu D 270.0 3181.0 8.5 1.5 261.5 3179.5 0.08 0.92 0.85 0.25 0.25
+2869insG Mu D 33.0 3613.0 11.0 3.0 22.0 3610.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 492.0 2073.5 11.0 0.0 481.0 2073.5 0.19 0.81 0.79 0.29 0.31
+3120+1G>A Mu D 51.0 1638.5 0.0 6.0 51.0 1632.5 0.03 0.97 0.85 0.25 0.25
+3199del6 Mu D 53.5 2158.0 14.5 20.0 39.0 2138.0 0.02 0.98 0.85 0.26 0.25
+R1066C Mu D 99.0 2646.0 33.0 0.0 66.0 2646.0 0.02 0.98 0.85 0.26 0.25
+W1089X Mu D 99.0 2599.0 26.0 5.0 73.0 2594.0 0.03 0.97 0.83 0.30 0.27
+Y1092X-C>G Mu D 95.0 3340.5 33.0 6.0 62.0 3334.5 0.01 0.50 0.75 0.25 0.30
+Y1092X-C>A Mu D 3322.0 20.0 3302.0 0.49 0.30
+M1101K Mu D 72.0 2459.0 13.0 0.0 59.0 2459.0 0.02 0.98 0.81 0.25 0.29
+D1152H Mu D 70.0 3331.0 0.0 26.0 70.0 3305.0 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 171.5 4632.5 8.0 0.0 163.5 4632.5 0.03 0.97 0.85 0.25 0.25
+R1162X Mu D 142.5 2446.5 21.0 0.0 121.5 2446.5 0.05 0.95 0.85 0.30 0.25
+3659delC Mu D 639.0 3517.0 0.0 26.0 639.0 3491.0 0.15 0.85 0.81 0.31 0.29
+S1196X Mu D 12.5 2516.0 0.0 0.0 12.5 2516.0 0.00 1.00 0.79 0.25 0.31
+S1255X(ex.19) Mu D 41.0 1622.5 26.0 13.0 15.0 1609.5 0.01 0.99 0.85 0.28 0.25
+S1255X(ex.20) HET 2475.5 3136.0 0.0 0.0 2475.5 3136.0 0.44 0.56 0.85 0.25 0.25
+3791delC HET 838.0 2104.0 11.0 2.0 827.0 2102.0 0.28 0.72 0.80 0.25 0.30
+3849+10kbC>T Mu D 287.5 1933.0 12.0 0.0 275.5 1933.0 0.12 0.88 0.82 0.26 0.28
+3876delA HET 4554.0 3187.5 2.0 5.0 4552.0 3182.5 0.59 0.41 0.80 0.25 0.30
+3905insT HET 2758.5 2539.0 0.0 5.0 2758.5 2534.0 0.52 0.48 0.80 0.35 0.30
+W1282X Mu D 24.0 3026.0 34.5 0.0 0.0 3026.0 0.00 1.00 0.85 0.25 0.25
+N1303K Mu D 14.0 2413.0 6.5 0.0 7.5 2413.0 0.00 1.00 0.85 0.25 0.25
+5T 5T/9T D 3016.5 2.0 3014.5 0.38 0.30
+7T 1536.0 8.5 1527.5 0.19 0.30
+9T 3292.0 0.0 3292.0 0.42 0.25
+I506V I506V,I507V,F508C D 699.5 4.0 695.5 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1381.0 0.0 1381.0
+F508C 1953.0 19.0 1934.0
+Report page number: 23
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 5(1,E1) / 21(1,E3)  1771A644_10127778A676-1b
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 24
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 6(1,F1) / 22(1,F3)  1771A644_10127778A676-2b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 14.0 10.0 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 0.0 15.0 0.0
+E60X Mu D 1025.0 4251.0 32.0 0.0 993.0 4251.0 0.19 0.81 0.85 0.20 0.25
+R75X Mu D 46.0 1794.0 24.0 6.0 22.0 1788.0 0.01 0.99 0.85 0.25 0.25
+G85E HET 2984.5 2760.0 21.5 0.0 2963.0 2760.0 0.52 0.48 0.80 0.27 0.30
+394delTT No Call 4643.0 3197.0 0.0 51.5 4643.0 3145.5 0.60 0.40 0.68 0.40 0.41 Variation failed: allelic ratio(s) not within predefined ranges
+405+3A>C Mu D 26.0 2346.0 13.5 0.0 12.5 2346.0 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 870.0 4059.0 24.0 5.5 846.0 4053.5 0.17 0.83 0.70 0.15 0.40
+444delA Mu D 112.5 2454.0 23.0 9.0 89.5 2445.0 0.04 0.96 0.82 0.25 0.28
+R117C Mu D 737.0 4400.0 0.0 2.0 737.0 4398.0 0.14 0.86 0.85 0.25 0.25
+R117H HET 5379.0 3688.0 6.0 0.0 5373.0 3688.0 0.59 0.41 0.85 0.26 0.25
+Y122X HET 2152.0 3713.5 0.0 19.5 2152.0 3694.0 0.37 0.63 0.85 0.25 0.25
+621+1G>T Mu D 41.5 3277.0 0.0 0.0 41.5 3277.0 0.01 0.99 0.85 0.25 0.25
+G178R Mu D 244.0 2534.0 11.0 7.5 233.0 2526.5 0.08 0.92 0.83 0.25 0.27
+711+1G>T Mu D 14.0 2436.5 8.0 0.0 6.0 2436.5 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 0.0 2719.5 12.0 13.0 0.0 2706.5 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 77.5 1683.0 4.0 11.5 73.5 1671.5 0.04 0.96 0.85 0.36 0.25
+deltaF311 Mu D 73.0 2968.0 3.0 12.5 70.0 2955.5 0.02 0.98 0.80 0.32 0.30
+1078delT Mu D 145.0 2194.0 9.0 10.0 136.0 2184.0 0.06 0.94 0.80 0.33 0.30
+G330X Mu D 64.5 4057.0 14.0 0.0 50.5 4057.0 0.01 0.99 0.85 0.31 0.25
+R334W Mu D 594.0 2151.0 11.5 22.0 582.5 2129.0 0.21 0.79 0.75 0.28 0.35
+R347P Mu D 62.0 2777.5 19.0 7.0 43.0 2770.5 0.01 0.53 0.85 0.27 0.25
+R347H Mu D 2448.0 11.0 2437.0 0.46 0.20
+R352Q Mu D 40.0 2423.0 9.5 12.0 30.5 2411.0 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 33.0 2103.5 40.0 0.0 0.0 2103.5 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 0.0 2580.0 0.0 0.0 0.0 2580.0 0.00 1.00 0.85 0.25 0.25
+G480C Mu D 81.5 3702.0 15.0 8.5 66.5 3693.5 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 677.0 5566.0 0.0 4.0 677.0 5562.0 0.11 0.89 0.85 0.27 0.25
+dI507 Mu D 704.5 2848.0 0.0 1.0 704.5 2847.0 0.10 0.39 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 3769.0 0.0 3769.0 0.51 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 50.5 3603.0 7.0 0.0 43.5 3603.0 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 55.0 2866.5 2.0 3.0 53.0 2863.5 0.02 0.98 0.85 0.25 0.25
+1717-1G>A Mu D 62.5 2660.0 6.0 5.0 56.5 2655.0 0.02 0.98 0.85 0.30 0.25
+G542X HET 3875.0 3490.0 1.0 0.0 3874.0 3490.0 0.53 0.47 0.75 0.25 0.35
+S549N HET 4372.0 2988.0 0.0 18.0 4372.0 2970.0 0.60 0.40 0.85 0.28 0.25
+S549R(T>G) HET 3684.0 3439.0 12.0 3.0 3672.0 3436.0 0.52 0.48 0.85 0.25 0.25
+G551D No Call 4573.5 2169.0 19.0 0.0 4554.5 2169.0 0.68 0.32 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3722.0 2202.0 9.5 0.0 3712.5 2202.0 0.63 0.37 0.85 0.25 0.25
+A559T Mu D 919.0 2546.0 1.5 0.0 917.5 2546.0 0.26 0.74 0.80 0.29 0.30
+R560T HET 2106.0 3230.0 12.5 4.0 2093.5 3226.0 0.39 0.61 0.85 0.25 0.25
+1812-1G>A Mu D 148.0 3320.5 1.0 9.0 147.0 3311.5 0.04 0.96 0.74 0.24 0.36
+1898+1G>A HET 632.0 1711.5 15.0 2.5 617.0 1709.0 0.27 0.73 0.85 0.25 0.25
+1898+5G>T HET 2752.0 2959.0 27.0 6.5 2725.0 2952.5 0.48 0.52 0.83 0.25 0.27
+G622D Mu D 570.0 4880.0 28.0 14.0 542.0 4866.0 0.10 0.90 0.85 0.27 0.25
+2055del9>A Mu D 6.0 4049.5 15.0 10.0 0.0 4039.5 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 28.5 2538.5 0.0 3.5 28.5 2535.0 0.01 0.99 0.85 0.25 0.25
+2183AA>G Mu D 106.0 2468.0 0.0 23.0 106.0 2445.0 0.02 0.42 0.77 0.20 0.35
+2184delA Mu D 3320.5 16.0 3304.5 0.56 0.20
+K710X Mu D 29.0 2390.5 0.0 0.0 29.0 2390.5 0.01 0.99 0.75 0.15 0.35
+Report page number: 25
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 6(1,F1) / 22(1,F3)  1771A644_10127778A676-2b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 773.5 2698.0 10.0 7.5 763.5 2690.5 0.22 0.78 0.80 0.30 0.30
+2789+5G>A Mu D 37.0 1930.5 0.0 7.0 37.0 1923.5 0.02 0.98 0.85 0.25 0.25
+Q890X Mu D 313.0 3154.5 8.5 1.5 304.5 3153.0 0.09 0.91 0.85 0.25 0.25
+2869insG Mu D 61.0 3899.0 11.0 3.0 50.0 3896.0 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 475.0 2192.0 11.0 0.0 464.0 2192.0 0.17 0.83 0.79 0.29 0.31
+3120+1G>A Mu D 34.0 1489.0 0.0 6.0 34.0 1483.0 0.02 0.98 0.85 0.25 0.25
+3199del6 Mu D 31.0 2287.5 14.5 20.0 16.5 2267.5 0.01 0.99 0.85 0.26 0.25
+R1066C Mu D 92.0 2892.0 33.0 0.0 59.0 2892.0 0.02 0.98 0.85 0.26 0.25
+W1089X Mu D 99.0 2860.0 26.0 5.0 73.0 2855.0 0.02 0.98 0.83 0.30 0.27
+Y1092X-C>G Mu D 73.0 3438.0 33.0 6.0 40.0 3432.0 0.01 0.52 0.75 0.25 0.30
+Y1092X-C>A Mu D 3126.0 20.0 3106.0 0.47 0.30
+M1101K Mu D 63.0 2412.0 13.0 0.0 50.0 2412.0 0.02 0.98 0.81 0.25 0.29
+D1152H Mu D 54.0 3430.0 0.0 26.0 54.0 3404.0 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 217.0 5098.0 8.0 0.0 209.0 5098.0 0.04 0.96 0.85 0.25 0.25
+R1162X Mu D 123.5 2548.5 21.0 0.0 102.5 2548.5 0.04 0.96 0.85 0.30 0.25
+3659delC Mu D 667.0 3323.5 0.0 26.0 667.0 3297.5 0.17 0.83 0.81 0.31 0.29
+S1196X Mu D 18.5 2547.0 0.0 0.0 18.5 2547.0 0.01 0.99 0.79 0.25 0.31
+S1255X(ex.19) Mu D 34.0 1633.5 26.0 13.0 8.0 1620.5 0.00 1.00 0.85 0.28 0.25
+S1255X(ex.20) HET 2506.0 3321.0 0.0 0.0 2506.0 3321.0 0.43 0.57 0.85 0.25 0.25
+3791delC HET 803.0 2137.0 11.0 2.0 792.0 2135.0 0.27 0.73 0.80 0.25 0.30
+3849+10kbC>T Mu D 220.5 1799.5 12.0 0.0 208.5 1799.5 0.10 0.90 0.82 0.26 0.28
+3876delA HET 3990.0 3138.0 2.0 5.0 3988.0 3133.0 0.56 0.44 0.80 0.25 0.30
+3905insT HET 2455.0 2488.5 0.0 5.0 2455.0 2483.5 0.50 0.50 0.80 0.35 0.30
+W1282X Mu D 59.0 2833.5 34.5 0.0 24.5 2833.5 0.01 0.99 0.85 0.25 0.25
+N1303K Mu D 10.0 2429.0 6.5 0.0 3.5 2429.0 0.00 1.00 0.85 0.25 0.25
+5T 5T/9T D 2855.0 2.0 2853.0 0.38 0.30
+7T 1496.0 8.5 1487.5 0.20 0.30
+9T 3228.0 0.0 3228.0 0.43 0.25
+I506V I506V,I507V,F508C D 654.0 4.0 650.0 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1247.5 0.0 1247.5
+F508C 1715.0 19.0 1696.0
+Report page number: 26
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 6(1,F1) / 22(1,F3)  1771A644_10127778A676-2b
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 27
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 7(1,G1) / 23(1,G3)  1771A644_10127778A676-3b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 2.0 20.0 34.0 18.0 0.0 2.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 20.5 15.0 5.5
+E60X Mu D 949.0 4473.5 32.0 0.0 917.0 4473.5 0.17 0.83 0.85 0.20 0.25
+R75X Mu D 58.0 1905.0 24.0 6.0 34.0 1899.0 0.02 0.98 0.85 0.25 0.25
+G85E HET 2773.0 2568.0 21.5 0.0 2751.5 2568.0 0.52 0.48 0.80 0.27 0.30
+394delTT HET 4431.5 3207.0 0.0 51.5 4431.5 3155.5 0.58 0.42 0.68 0.40 0.41
+405+3A>C Mu D 47.0 2410.5 13.5 0.0 33.5 2410.5 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 915.0 4081.0 24.0 5.5 891.0 4075.5 0.18 0.82 0.70 0.15 0.40
+444delA Mu D 127.0 2578.5 23.0 9.0 104.0 2569.5 0.04 0.96 0.82 0.25 0.28
+R117C Mu D 900.0 4334.0 0.0 2.0 900.0 4332.0 0.17 0.83 0.85 0.25 0.25
+R117H HET 5409.0 3865.0 6.0 0.0 5403.0 3865.0 0.58 0.42 0.85 0.26 0.25
+Y122X HET 2321.0 3666.0 0.0 19.5 2321.0 3646.5 0.39 0.61 0.85 0.25 0.25
+621+1G>T Mu D 38.0 3268.5 0.0 0.0 38.0 3268.5 0.01 0.99 0.85 0.25 0.25
+G178R Mu D 267.0 2690.0 11.0 7.5 256.0 2682.5 0.09 0.91 0.83 0.25 0.27
+711+1G>T Mu D 31.0 2737.0 8.0 0.0 23.0 2737.0 0.01 0.99 0.85 0.25 0.25
+L206W Mu D 14.0 2577.5 12.0 13.0 2.0 2564.5 0.00 1.00 0.85 0.25 0.25
+935delA Mu D 103.5 1637.5 4.0 11.5 99.5 1626.0 0.06 0.94 0.85 0.36 0.25
+deltaF311 Mu D 102.0 3077.0 3.0 12.5 99.0 3064.5 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 123.0 2148.0 9.0 10.0 114.0 2138.0 0.05 0.95 0.80 0.33 0.30
+G330X Mu D 79.0 4329.0 14.0 0.0 65.0 4329.0 0.01 0.99 0.85 0.31 0.25
+R334W Mu D 595.0 2048.0 11.5 22.0 583.5 2026.0 0.22 0.78 0.75 0.28 0.35
+R347P Mu D 41.0 2844.0 19.0 7.0 22.0 2837.0 0.00 0.52 0.85 0.27 0.25
+R347H Mu D 2584.5 11.0 2573.5 0.47 0.20
+R352Q Mu D 34.5 2366.0 9.5 12.0 25.0 2354.0 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 42.0 2236.5 40.0 0.0 2.0 2236.5 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 23.0 2551.5 0.0 0.0 23.0 2551.5 0.01 0.99 0.85 0.25 0.25
+G480C Mu D 101.5 3791.5 15.0 8.5 86.5 3783.0 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 762.5 5514.0 0.0 4.0 762.5 5510.0 0.12 0.88 0.85 0.27 0.25
+dI507 Mu D 746.5 2762.5 0.0 1.0 746.5 2761.5 0.10 0.37 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 3948.0 0.0 3948.0 0.53 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 39.5 4043.0 7.0 0.0 32.5 4043.0 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 74.0 2905.0 2.0 3.0 72.0 2902.0 0.02 0.98 0.85 0.25 0.25
+1717-1G>A Mu D 107.5 2885.0 6.0 5.0 101.5 2880.0 0.03 0.97 0.85 0.30 0.25
+G542X HET 3954.5 3259.5 1.0 0.0 3953.5 3259.5 0.55 0.45 0.75 0.25 0.35
+S549N HET 4191.0 3069.0 0.0 18.0 4191.0 3051.0 0.58 0.42 0.85 0.28 0.25
+S549R(T>G) HET 3568.5 3435.0 12.0 3.0 3556.5 3432.0 0.51 0.49 0.85 0.25 0.25
+G551D No Call 4437.0 2220.0 19.0 0.0 4418.0 2220.0 0.67 0.33 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3593.0 2311.0 9.5 0.0 3583.5 2311.0 0.61 0.39 0.85 0.25 0.25
+A559T Mu D 860.5 2480.0 1.5 0.0 859.0 2480.0 0.26 0.74 0.80 0.29 0.30
+R560T HET 2198.0 3270.5 12.5 4.0 2185.5 3266.5 0.40 0.60 0.85 0.25 0.25
+1812-1G>A Mu D 185.0 3265.5 1.0 9.0 184.0 3256.5 0.05 0.95 0.74 0.24 0.36
+1898+1G>A HET 599.5 1789.0 15.0 2.5 584.5 1786.5 0.25 0.75 0.85 0.25 0.25
+1898+5G>T HET 2730.5 2966.0 27.0 6.5 2703.5 2959.5 0.48 0.52 0.83 0.25 0.27
+G622D Mu D 664.5 4818.0 28.0 14.0 636.5 4804.0 0.12 0.88 0.85 0.27 0.25
+2055del9>A Mu D 9.0 4044.0 15.0 10.0 0.0 4034.0 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 39.0 2643.0 0.0 3.5 39.0 2639.5 0.01 0.99 0.85 0.25 0.25
+2183AA>G Mu D 70.0 2748.0 0.0 23.0 70.0 2725.0 0.01 0.44 0.77 0.20 0.35
+2184delA Mu D 3372.5 16.0 3356.5 0.55 0.20
+K710X Mu D 73.0 2615.0 0.0 0.0 73.0 2615.0 0.03 0.97 0.75 0.15 0.35
+Report page number: 28
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 7(1,G1) / 23(1,G3)  1771A644_10127778A676-3b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 711.0 2697.5 10.0 7.5 701.0 2690.0 0.21 0.79 0.80 0.30 0.30
+2789+5G>A Mu D 58.5 1964.5 0.0 7.0 58.5 1957.5 0.03 0.97 0.85 0.25 0.25
+Q890X Mu D 350.0 3515.0 8.5 1.5 341.5 3513.5 0.09 0.91 0.85 0.25 0.25
+2869insG Mu D 60.5 3787.5 11.0 3.0 49.5 3784.5 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 518.0 2242.5 11.0 0.0 507.0 2242.5 0.18 0.82 0.79 0.29 0.31
+3120+1G>A Mu D 36.0 1522.0 0.0 6.0 36.0 1516.0 0.02 0.98 0.85 0.25 0.25
+3199del6 Mu D 34.5 2343.0 14.5 20.0 20.0 2323.0 0.01 0.99 0.85 0.26 0.25
+R1066C Mu D 143.0 2905.5 33.0 0.0 110.0 2905.5 0.04 0.96 0.85 0.26 0.25
+W1089X Mu D 102.0 2938.0 26.0 5.0 76.0 2933.0 0.03 0.97 0.83 0.30 0.27
+Y1092X-C>G Mu D 71.0 3448.0 33.0 6.0 38.0 3442.0 0.01 0.52 0.75 0.25 0.30
+Y1092X-C>A Mu D 3114.0 20.0 3094.0 0.47 0.30
+M1101K Mu D 56.0 2419.0 13.0 0.0 43.0 2419.0 0.02 0.98 0.81 0.25 0.29
+D1152H Mu D 70.0 3828.5 0.0 26.0 70.0 3802.5 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 220.0 4996.5 8.0 0.0 212.0 4996.5 0.04 0.96 0.85 0.25 0.25
+R1162X Mu D 148.5 2446.0 21.0 0.0 127.5 2446.0 0.05 0.95 0.85 0.30 0.25
+3659delC Mu D 683.0 3607.5 0.0 26.0 683.0 3581.5 0.16 0.84 0.81 0.31 0.29
+S1196X Mu D 17.5 2513.0 0.0 0.0 17.5 2513.0 0.01 0.99 0.79 0.25 0.31
+S1255X(ex.19) Mu D 39.0 1617.0 26.0 13.0 13.0 1604.0 0.01 0.99 0.85 0.28 0.25
+S1255X(ex.20) HET 2420.0 3286.0 0.0 0.0 2420.0 3286.0 0.42 0.58 0.85 0.25 0.25
+3791delC HET 914.0 2134.0 11.0 2.0 903.0 2132.0 0.30 0.70 0.80 0.25 0.30
+3849+10kbC>T Mu D 205.0 1833.0 12.0 0.0 193.0 1833.0 0.10 0.90 0.82 0.26 0.28
+3876delA HET 4210.0 3298.0 2.0 5.0 4208.0 3293.0 0.56 0.44 0.80 0.25 0.30
+3905insT HET 2510.0 2574.0 0.0 5.0 2510.0 2569.0 0.49 0.51 0.80 0.35 0.30
+W1282X Mu D 56.5 2991.0 34.5 0.0 22.0 2991.0 0.01 0.99 0.85 0.25 0.25
+N1303K Mu D 26.0 2533.5 6.5 0.0 19.5 2533.5 0.01 0.99 0.85 0.25 0.25
+5T 5T/9T D 2981.5 2.0 2979.5 0.39 0.30
+7T 1443.5 8.5 1435.0 0.19 0.30
+9T 3207.5 0.0 3207.5 0.42 0.25
+I506V I506V,I507V,F508C D 698.0 4.0 694.0 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1307.5 0.0 1307.5
+F508C 1637.0 19.0 1618.0
+Report page number: 29
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 7(1,G1) / 23(1,G3)  1771A644_10127778A676-3b
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 30
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 8(1,H1) / 24(1,H3)  1771A644_10071772A676b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 No Call 13.0 13.0 34.0 18.0 0.0 0.0 0.85 0.14 0.25 Variation failed: signal(s) inadequate
+intron 1 30.0 15.0 15.0
+E60X Mu D 900.0 4358.0 32.0 0.0 868.0 4358.0 0.17 0.83 0.85 0.20 0.25
+R75X Mu D 58.0 2054.0 24.0 6.0 34.0 2048.0 0.02 0.98 0.85 0.25 0.25
+G85E HET 2876.5 2712.5 21.5 0.0 2855.0 2712.5 0.51 0.49 0.80 0.27 0.30
+394delTT HET 4460.0 3108.0 0.0 51.5 4460.0 3056.5 0.59 0.41 0.68 0.40 0.41
+405+3A>C Mu D 52.0 2712.0 13.5 0.0 38.5 2712.0 0.01 0.99 0.81 0.25 0.29
+406-1G>A HET 832.0 4415.0 24.0 5.5 808.0 4409.5 0.15 0.85 0.70 0.15 0.40
+444delA Mu D 116.0 2712.5 23.0 9.0 93.0 2703.5 0.03 0.97 0.82 0.25 0.28
+R117C Mu D 864.0 4489.0 0.0 2.0 864.0 4487.0 0.16 0.84 0.85 0.25 0.25
+R117H HET 5236.5 3592.5 6.0 0.0 5230.5 3592.5 0.59 0.41 0.85 0.26 0.25
+Y122X HET 2211.0 3892.0 0.0 19.5 2211.0 3872.5 0.36 0.64 0.85 0.25 0.25
+621+1G>T Mu D 73.0 3209.0 0.0 0.0 73.0 3209.0 0.02 0.98 0.85 0.25 0.25
+G178R Mu D 248.0 2944.5 11.0 7.5 237.0 2937.0 0.07 0.93 0.83 0.25 0.27
+711+1G>T Mu D 17.0 2419.0 8.0 0.0 9.0 2419.0 0.00 1.00 0.85 0.25 0.25
+L206W Mu D 38.0 3055.0 12.0 13.0 26.0 3042.0 0.01 0.99 0.85 0.25 0.25
+935delA Mu D 74.0 1521.0 4.0 11.5 70.0 1509.5 0.04 0.96 0.85 0.36 0.25
+deltaF311 Mu D 103.0 3324.0 3.0 12.5 100.0 3311.5 0.03 0.97 0.80 0.32 0.30
+1078delT Mu D 147.0 2115.5 9.0 10.0 138.0 2105.5 0.06 0.94 0.80 0.33 0.30
+G330X Mu D 84.5 4318.5 14.0 0.0 70.5 4318.5 0.02 0.98 0.85 0.31 0.25
+R334W Mu D 504.0 2090.5 11.5 22.0 492.5 2068.5 0.19 0.81 0.75 0.28 0.35
+R347P Mu D 38.0 2657.0 19.0 7.0 19.0 2650.0 0.00 0.52 0.85 0.27 0.25
+R347H Mu D 2454.0 11.0 2443.0 0.48 0.20
+R352Q Mu D 47.0 2757.0 9.5 12.0 37.5 2745.0 0.01 0.99 0.85 0.25 0.25
+S364P Mu D 30.0 2352.5 40.0 0.0 0.0 2352.5 0.00 1.00 0.85 0.25 0.25
+A455E Mu D 16.0 2578.0 0.0 0.0 16.0 2578.0 0.01 0.99 0.85 0.25 0.25
+G480C Mu D 97.0 3886.0 15.0 8.5 82.0 3877.5 0.02 0.98 0.77 0.28 0.33
+Q493X Mu D 618.0 5163.0 0.0 4.0 618.0 5159.0 0.11 0.89 0.85 0.27 0.25
+dI507 Mu D 675.0 2535.0 0.0 1.0 675.0 2534.0 0.10 0.38 0.80 0.20 0.30 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+dF508 Mu D 3509.0 0.0 3509.0 0.52 0.18 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+1677delTA Mu D 55.0 3784.5 7.0 0.0 48.0 3784.5 0.01 0.99 0.85 0.25 0.25
+V520F Mu D 55.0 2680.0 2.0 3.0 53.0 2677.0 0.02 0.98 0.85 0.25 0.25
+1717-1G>A Mu D 71.0 2599.5 6.0 5.0 65.0 2594.5 0.02 0.98 0.85 0.30 0.25
+G542X HET 3824.5 3284.0 1.0 0.0 3823.5 3284.0 0.54 0.46 0.75 0.25 0.35
+S549N HET 4221.0 3071.0 0.0 18.0 4221.0 3053.0 0.58 0.42 0.85 0.28 0.25
+S549R(T>G) HET 3571.5 3344.0 12.0 3.0 3559.5 3341.0 0.52 0.48 0.85 0.25 0.25
+G551D No Call 4500.0 2239.0 19.0 0.0 4481.0 2239.0 0.67 0.33 0.85 0.25 Variation failed: allelic ratio(s) not within predefined ranges
+R553X HET 3467.0 2194.0 9.5 0.0 3457.5 2194.0 0.61 0.39 0.85 0.25 0.25
+A559T Mu D 852.0 2423.0 1.5 0.0 850.5 2423.0 0.26 0.74 0.80 0.29 0.30
+R560T HET 2115.0 3122.0 12.5 4.0 2102.5 3118.0 0.40 0.60 0.85 0.25 0.25
+1812-1G>A Mu D 159.0 3163.0 1.0 9.0 158.0 3154.0 0.05 0.95 0.74 0.24 0.36
+1898+1G>A Mu D 557.5 1773.0 15.0 2.5 542.5 1770.5 0.23 0.77 0.85 0.25 0.25
+1898+5G>T HET 2680.0 2880.5 27.0 6.5 2653.0 2874.0 0.48 0.52 0.83 0.25 0.27
+G622D Mu D 538.0 4658.0 28.0 14.0 510.0 4644.0 0.10 0.90 0.85 0.27 0.25
+2055del9>A Mu D 19.0 4120.5 15.0 10.0 4.0 4110.5 0.00 1.00 0.85 0.25 0.25
+2143delT Mu D 55.5 2714.0 0.0 3.5 55.5 2710.5 0.02 0.98 0.85 0.25 0.25
+2183AA>G Mu D 84.5 2719.0 0.0 23.0 84.5 2696.0 0.01 0.45 0.77 0.20 0.35
+2184delA Mu D 3284.0 16.0 3268.0 0.54 0.20
+K710X Mu D 73.0 2536.0 0.0 0.0 73.0 2536.0 0.03 0.97 0.75 0.15 0.35
+Report page number: 31
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 2
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 8(1,H1) / 24(1,H3)  1771A644_10071772A676b
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+2307insA Mu D 645.5 2600.5 10.0 7.5 635.5 2593.0 0.20 0.80 0.80 0.30 0.30
+2789+5G>A Mu D 55.0 1898.0 0.0 7.0 55.0 1891.0 0.03 0.97 0.85 0.25 0.25
+Q890X Mu D 324.0 3395.0 8.5 1.5 315.5 3393.5 0.09 0.91 0.85 0.25 0.25
+2869insG Mu D 67.0 4201.5 11.0 3.0 56.0 4198.5 0.01 0.99 0.85 0.25 0.25
+3120G>A Mu D 522.0 2364.0 11.0 0.0 511.0 2364.0 0.18 0.82 0.79 0.29 0.31
+3120+1G>A Mu D 45.0 1500.0 0.0 6.0 45.0 1494.0 0.03 0.97 0.85 0.25 0.25
+3199del6 Mu D 78.0 2653.0 14.5 20.0 63.5 2633.0 0.02 0.98 0.85 0.26 0.25
+R1066C Mu D 121.0 2834.0 33.0 0.0 88.0 2834.0 0.03 0.97 0.85 0.26 0.25
+W1089X Mu D 108.5 2800.0 26.0 5.0 82.5 2795.0 0.03 0.97 0.83 0.30 0.27
+Y1092X-C>G Mu D 44.0 3368.0 33.0 6.0 11.0 3362.0 0.00 0.52 0.75 0.25 0.30
+Y1092X-C>A Mu D 3086.5 20.0 3066.5 0.48 0.30
+M1101K Mu D 42.0 2371.0 13.0 0.0 29.0 2371.0 0.01 0.99 0.81 0.25 0.29
+D1152H Mu D 66.5 3521.5 0.0 26.0 66.5 3495.5 0.02 0.98 0.85 0.26 0.25
+R1158X Mu D 208.0 4795.5 8.0 0.0 200.0 4795.5 0.04 0.96 0.85 0.25 0.25
+R1162X Mu D 116.0 2407.5 21.0 0.0 95.0 2407.5 0.04 0.96 0.85 0.30 0.25
+3659delC Mu D 646.0 3199.5 0.0 26.0 646.0 3173.5 0.17 0.83 0.81 0.31 0.29
+S1196X Mu D 13.0 2804.0 0.0 0.0 13.0 2804.0 0.00 1.00 0.79 0.25 0.31
+S1255X(ex.19) Mu D 21.0 1573.5 26.0 13.0 0.0 1560.5 0.00 1.00 0.85 0.28 0.25
+S1255X(ex.20) HET 2121.0 3187.0 0.0 0.0 2121.0 3187.0 0.40 0.60 0.85 0.25 0.25
+3791delC HET 854.0 2317.5 11.0 2.0 843.0 2315.5 0.27 0.73 0.80 0.25 0.30
+3849+10kbC>T Mu D 194.0 1836.0 12.0 0.0 182.0 1836.0 0.09 0.91 0.82 0.26 0.28
+3876delA HET 3992.0 2961.0 2.0 5.0 3990.0 2956.0 0.57 0.43 0.80 0.25 0.30
+3905insT HET 2378.0 2381.0 0.0 5.0 2378.0 2376.0 0.50 0.50 0.80 0.35 0.30
+W1282X Mu D 58.0 2737.0 34.5 0.0 23.5 2737.0 0.01 0.99 0.85 0.25 0.25
+N1303K Mu D 30.0 2442.0 6.5 0.0 23.5 2442.0 0.01 0.99 0.85 0.25 0.25
+5T 5T/9T D 3012.0 2.0 3010.0 0.39 0.30
+7T 1432.0 8.5 1423.5 0.19 0.30
+9T 3256.0 0.0 3256.0 0.42 0.25
+I506V I506V,I507V,F508C D 644.5 4.0 640.5 Warning: presence of benign variant(s) affected interpretation of the dI507/dF508 result. Refer to Kit Package Insert for details
+I507V 1217.0 0.0 1217.0
+F508C 1618.0 19.0 1599.0
+Report page number: 32
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 8(1,H1) / 24(1,H3)  1771A644_10071772A676b
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 33
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 9(1,A2) / 25(1,A4)  WT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 WT 5896.0 11.0 34.0 18.0 5862.0 0.0 1.00 0.00 0.85 0.14 0.25
+intron 1 3250.0 15.0 3235.0 N/A
+E60X WT 6717.5 64.0 32.0 0.0 6685.5 64.0 0.99 0.01 0.85 0.20 0.25
+R75X WT 3682.0 46.0 24.0 6.0 3658.0 40.0 0.99 0.01 0.85 0.25 0.25
+G85E WT 4744.0 152.5 21.5 0.0 4722.5 152.5 0.97 0.03 0.80 0.27 0.30
+394delTT WT 4328.0 1447.0 0.0 51.5 4328.0 1395.5 0.76 0.24 0.68 0.40 0.41
+405+3A>C WT 3627.0 68.0 13.5 0.0 3613.5 68.0 0.98 0.02 0.81 0.25 0.29
+406-1G>A WT 4417.0 1176.0 24.0 5.5 4393.0 1170.5 0.79 0.21 0.70 0.15 0.40
+444delA WT 4700.0 58.0 23.0 9.0 4677.0 49.0 0.99 0.01 0.82 0.25 0.28
+R117C WT 5020.5 114.0 0.0 2.0 5020.5 112.0 0.98 0.02 0.85 0.25 0.25
+R117H WT 6725.5 22.5 6.0 0.0 6719.5 22.5 1.00 0.00 0.85 0.26 0.25
+Y122X WT 4292.0 58.5 0.0 19.5 4292.0 39.0 0.99 0.01 0.85 0.25 0.25
+621+1G>T WT 4666.5 104.0 0.0 0.0 4666.5 104.0 0.98 0.02 0.85 0.25 0.25
+G178R WT 4045.0 136.0 11.0 7.5 4034.0 128.5 0.97 0.03 0.83 0.25 0.27
+711+1G>T WT 4771.0 87.0 8.0 0.0 4763.0 87.0 0.98 0.02 0.85 0.25 0.25
+L206W WT 4713.5 104.0 12.0 13.0 4701.5 91.0 0.98 0.02 0.85 0.25 0.25
+935delA WT 4502.0 110.0 4.0 11.5 4498.0 98.5 0.98 0.02 0.85 0.36 0.25
+deltaF311 WT 5367.0 412.0 3.0 12.5 5364.0 399.5 0.93 0.07 0.80 0.32 0.30
+1078delT WT 5250.0 298.5 9.0 10.0 5241.0 288.5 0.95 0.05 0.80 0.33 0.30
+G330X WT 6678.0 19.0 14.0 0.0 6664.0 19.0 1.00 0.00 0.85 0.31 0.25
+R334W WT 3283.0 315.0 11.5 22.0 3271.5 293.0 0.92 0.08 0.75 0.28 0.35
+R347P WT 4677.0 78.5 19.0 7.0 4658.0 71.5 0.97 0.01 0.85 0.27 0.25
+R347H WT 90.0 11.0 79.0 0.02 0.20
+R352Q WT 4031.0 116.0 9.5 12.0 4021.5 104.0 0.97 0.03 0.85 0.25 0.25
+S364P WT 5208.5 153.0 40.0 0.0 5168.5 153.0 0.97 0.03 0.85 0.25 0.25
+A455E WT 5221.5 23.0 0.0 0.0 5221.5 23.0 1.00 0.00 0.85 0.25 0.25
+G480C WT 7952.5 632.0 15.0 8.5 7937.5 623.5 0.93 0.07 0.77 0.28 0.33
+Q493X WT 6224.0 249.0 0.0 4.0 6224.0 245.0 0.96 0.04 0.85 0.27 0.25
+dI507 WT 3365.5 72.0 0.0 1.0 3365.5 71.0 0.97 0.02 0.80 0.20 0.30
+dF508 WT 24.5 0.0 24.5 0.01 0.18
+1677delTA WT 8319.5 56.0 7.0 0.0 8312.5 56.0 0.99 0.01 0.85 0.25 0.25
+Report page number: 34
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 9(1,A2) / 25(1,A4)  WT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+V520F WT 9761.0 125.0 2.0 3.0 9759.0 122.0 0.99 0.01 0.85 0.25 0.25
+1717-1G>A WT 4922.0 99.0 6.0 5.0 4916.0 94.0 0.98 0.02 0.85 0.30 0.25
+G542X WT 5346.0 108.0 1.0 0.0 5345.0 108.0 0.98 0.02 0.75 0.25 0.35
+S549N WT 6733.0 59.0 0.0 18.0 6733.0 41.0 0.99 0.01 0.85 0.28 0.25
+S549R(T>G) WT 5582.0 131.0 12.0 3.0 5570.0 128.0 0.98 0.02 0.85 0.25 0.25
+G551D WT 5521.0 33.0 19.0 0.0 5502.0 33.0 0.99 0.01 0.85 0.20 0.25
+R553X WT 4332.5 34.0 9.5 0.0 4323.0 34.0 0.99 0.01 0.85 0.25 0.25
+A559T WT 4637.0 651.0 1.5 0.0 4635.5 651.0 0.88 0.12 0.80 0.29 0.30
+R560T WT 6062.0 112.0 12.5 4.0 6049.5 108.0 0.98 0.02 0.85 0.25 0.25
+1812-1G>A WT 3417.0 129.0 1.0 9.0 3416.0 120.0 0.97 0.03 0.74 0.24 0.36
+1898+1G>A WT 3672.0 72.0 15.0 2.5 3657.0 69.5 0.98 0.02 0.85 0.25 0.25
+1898+5G>T WT 3969.0 122.0 27.0 6.5 3942.0 115.5 0.97 0.03 0.83 0.25 0.27
+G622D WT 5924.0 33.0 28.0 14.0 5896.0 19.0 1.00 0.00 0.85 0.27 0.25
+2055del9>A WT 5207.0 4.0 15.0 10.0 5192.0 0.0 1.00 0.00 0.85 0.25 0.25
+2143delT WT 3904.0 25.0 0.0 3.5 3904.0 21.5 0.99 0.01 0.85 0.25 0.25
+2183AA>G WT 2382.0 115.0 0.0 23.0 2382.0 92.0 0.84 0.03 0.77 0.20 0.35
+2184delA WT 381.5 16.0 365.5 0.13 0.20
+K710X WT 2690.0 32.0 0.0 0.0 2690.0 32.0 0.99 0.01 0.75 0.15 0.35
+2307insA WT 5716.0 229.0 10.0 7.5 5706.0 221.5 0.96 0.04 0.80 0.30 0.30
+2789+5G>A WT 4007.0 32.5 0.0 7.0 4007.0 25.5 0.99 0.01 0.85 0.25 0.25
+Q890X WT 5497.0 49.0 8.5 1.5 5488.5 47.5 0.99 0.01 0.85 0.25 0.25
+2869insG WT 5869.0 50.0 11.0 3.0 5858.0 47.0 0.99 0.01 0.85 0.25 0.25
+3120G>A WT 4099.0 339.0 11.0 0.0 4088.0 339.0 0.92 0.08 0.79 0.29 0.31
+3120+1G>A WT 4155.0 90.0 0.0 6.0 4155.0 84.0 0.98 0.02 0.85 0.25 0.25
+3199del6 WT 6104.0 64.0 14.5 20.0 6089.5 44.0 0.99 0.01 0.85 0.26 0.25
+R1066C WT 5209.0 89.0 33.0 0.0 5176.0 89.0 0.98 0.02 0.85 0.26 0.25
+W1089X WT 4352.0 197.0 26.0 5.0 4326.0 192.0 0.96 0.04 0.83 0.30 0.27
+Y1092X-C>G WT 6781.0 62.0 33.0 6.0 6748.0 56.0 0.97 0.01 0.75 0.25 0.30
+Y1092X-C>A WT 187.0 20.0 167.0 0.02 0.30
+M1101K WT 3097.5 120.0 13.0 0.0 3084.5 120.0 0.96 0.04 0.81 0.25 0.29
+D1152H WT 6272.0 34.0 0.0 26.0 6272.0 8.0 1.00 0.00 0.85 0.26 0.25
+Report page number: 35
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 3 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 9(1,A2) / 25(1,A4)  WT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+R1158X WT 6726.0 52.0 8.0 0.0 6718.0 52.0 0.99 0.01 0.85 0.25 0.25
+R1162X WT 5667.0 73.0 21.0 0.0 5646.0 73.0 0.99 0.01 0.85 0.30 0.25
+3659delC WT 3629.0 188.5 0.0 26.0 3629.0 162.5 0.96 0.04 0.81 0.31 0.29
+S1196X WT 4213.0 36.0 0.0 0.0 4213.0 36.0 0.99 0.01 0.79 0.25 0.31
+S1255X(ex.19) WT 3932.5 42.5 26.0 13.0 3906.5 29.5 0.99 0.01 0.85 0.28 0.25
+S1255X(ex.20) WT 6660.0 21.0 0.0 0.0 6660.0 21.0 1.00 0.00 0.85 0.25 0.25
+3791delC WT 3247.0 140.0 11.0 2.0 3236.0 138.0 0.96 0.04 0.80 0.25 0.30
+3849+10kbC>T WT 4440.0 694.0 12.0 0.0 4428.0 694.0 0.86 0.14 0.82 0.26 0.28
+3876delA WT 9286.5 272.0 2.0 5.0 9284.5 267.0 0.97 0.03 0.80 0.25 0.30
+3905insT WT 7042.0 236.0 0.0 5.0 7042.0 231.0 0.97 0.03 0.80 0.35 0.30
+W1282X WT 5792.0 347.0 34.5 0.0 5757.5 347.0 0.94 0.06 0.85 0.25 0.25
+N1303K WT 3461.0 21.0 6.5 0.0 3454.5 21.0 0.99 0.01 0.85 0.25 0.25
+5T 7T D 177.0 2.0 175.0 0.03 0.30
+7T 4982.0 8.5 4973.5 0.87 0.30
+9T 598.5 0.0 598.5 0.10 0.25
+I506V ND 67.0 4.0 63.0
+I507V 268.0 0.0 268.0
+F508C 262.0 19.0 243.0
+Report page number: 36
+Batch CF70A 150826,CF70B 150826 - Net signals by variation for sample: 9(1,A2) / 25(1,A4)  WT
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+800
+1600
+2400
+3200
+4000
+4800
+5600
+6400
+7200
+8000
+8800
+9600
+10400
+Net MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 37
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 1 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 10(1,B2) / 26(1,B4)  NT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+del e2e3 34.0 18.0 34.0 18.0
+intron 1 15.0 15.0
+E60X 32.0 0.0 32.0 0.0
+R75X 24.0 6.0 24.0 6.0
+G85E 21.5 0.0 21.5 0.0
+394delTT 0.0 51.5 0.0 51.5
+405+3A>C 13.5 0.0 13.5 0.0
+406-1G>A 24.0 5.5 24.0 5.5
+444delA 23.0 9.0 23.0 9.0
+R117C 0.0 2.0 0.0 2.0
+R117H 6.0 0.0 6.0 0.0
+Y122X 0.0 19.5 0.0 19.5
+621+1G>T 0.0 0.0 0.0 0.0
+G178R 11.0 7.5 11.0 7.5
+711+1G>T 8.0 0.0 8.0 0.0
+L206W 12.0 13.0 12.0 13.0
+935delA 4.0 11.5 4.0 11.5
+deltaF311 3.0 12.5 3.0 12.5
+1078delT 9.0 10.0 9.0 10.0
+G330X 14.0 0.0 14.0 0.0
+R334W 11.5 22.0 11.5 22.0
+R347P 19.0 7.0 19.0 7.0
+R347H 11.0 11.0
+R352Q 9.5 12.0 9.5 12.0
+S364P 40.0 0.0 40.0 0.0
+A455E 0.0 0.0 0.0 0.0
+G480C 15.0 8.5 15.0 8.5
+Q493X 0.0 4.0 0.0 4.0
+dI507 0.0 1.0 0.0 1.0
+dF508 0.0 0.0
+1677delTA 7.0 0.0 7.0 0.0
+Report page number: 38
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 2 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 10(1,B2) / 26(1,B4)  NT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+V520F 2.0 3.0 2.0 3.0
+1717-1G>A 6.0 5.0 6.0 5.0
+G542X 1.0 0.0 1.0 0.0
+S549N 0.0 18.0 0.0 18.0
+S549R(T>G) 12.0 3.0 12.0 3.0
+G551D 19.0 0.0 19.0 0.0
+R553X 9.5 0.0 9.5 0.0
+A559T 1.5 0.0 1.5 0.0
+R560T 12.5 4.0 12.5 4.0
+1812-1G>A 1.0 9.0 1.0 9.0
+1898+1G>A 15.0 2.5 15.0 2.5
+1898+5G>T 27.0 6.5 27.0 6.5
+G622D 28.0 14.0 28.0 14.0
+2055del9>A 15.0 10.0 15.0 10.0
+2143delT 0.0 3.5 0.0 3.5
+2183AA>G 0.0 23.0 0.0 23.0
+2184delA 16.0 16.0
+K710X 0.0 0.0 0.0 0.0
+2307insA 10.0 7.5 10.0 7.5
+2789+5G>A 0.0 7.0 0.0 7.0
+Q890X 8.5 1.5 8.5 1.5
+2869insG 11.0 3.0 11.0 3.0
+3120G>A 11.0 0.0 11.0 0.0
+3120+1G>A 0.0 6.0 0.0 6.0
+3199del6 14.5 20.0 14.5 20.0
+R1066C 33.0 0.0 33.0 0.0
+W1089X 26.0 5.0 26.0 5.0
+Y1092X-C>G 33.0 6.0 33.0 6.0
+Y1092X-C>A 20.0 20.0
+M1101K 13.0 0.0 13.0 0.0
+D1152H 0.0 26.0 0.0 26.0
+Report page number: 39
+Batch 1: "CF70A 150826" created on "8/26/2015","2:37 PM" by "" Page: 3 of 3
+Batch 2: "CF70B 150826" created on "8/26/2015","2:38 PM" by ""
+Sample: 10(1,B2) / 26(1,B4)  NT
+Analyzed: 08/27/2015, 12:20:18 with TDAS CFTR 2.01 using xTAG® Cystic Fibrosis v2 (CF71) v.2.01 by 
+Variation Call Raw Signals (MFI) Background (MFI) Net Signals (MFI) Allelic Ratios AR Thresholds Notes and explanations
+Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele Wt Allele Mut Allele WT Call Wt Present Mut Present
+R1158X 8.0 0.0 8.0 0.0
+R1162X 21.0 0.0 21.0 0.0
+3659delC 0.0 26.0 0.0 26.0
+S1196X 0.0 0.0 0.0 0.0
+S1255X(ex.19) 26.0 13.0 26.0 13.0
+S1255X(ex.20) 0.0 0.0 0.0 0.0
+3791delC 11.0 2.0 11.0 2.0
+3849+10kbC>T 12.0 0.0 12.0 0.0
+3876delA 2.0 5.0 2.0 5.0
+3905insT 0.0 5.0 0.0 5.0
+W1282X 34.5 0.0 34.5 0.0
+N1303K 6.5 0.0 6.5 0.0
+5T 2.0 2.0
+7T 8.5 8.5
+9T 0.0 0.0
+I506V 4.0 4.0
+I507V 0.0 0.0
+F508C 19.0 19.0
+Report page number: 40
+Batch CF70A 150826,CF70B 150826 - Raw signals by variation for sample: 10(1,B2) / 26(1,B4)  NT
+del e2e3
+E60X
+R75X
+G85E
+394delTT
+405+3A>C
+406-1G>A
+444delA
+R117C
+R117H
+Y122X
+621+1G>T
+G178R
+711+1G>T
+L206W
+935delA
+deltaF311
+1078delT
+G330X
+R334W
+R347P/R347H
+R352Q
+S364P
+A455E
+G480C
+Q493X
+dI507/dF508
+1677delTA
+V520F
+1717-1G>A
+G542X
+S549N
+S549R(T>G)
+G551D
+R553X
+A559T
+R560T
+1812-1G>A
+1898+1G>A
+1898+5G>T
+G622D
+2055del9>A
+2143delT
+2183/2184
+K710X
+2307insA
+2789+5G>A
+Q890X
+2869insG
+3120G>A
+3120+1G>A
+3199del6
+R1066C
+W1089X
+Y1092X
+M1101K
+D1152H
+R1158X
+R1162X
+3659delC
+S1196X
+S1255X(ex.19)
+S1255X(ex.20)
+3791delC
+3849+10kbC>T
+3876delA
+3905insT
+W1282X
+N1303K
+5T/7T/9T
+I506V,I507V,F508C
+0
+10
+20
+30
+40
+50
+Raw MFI
+Variation
+Wild-type
+Mutant
+Primary negative control wild-type (raw MFI)
+Primary negative control mutant (raw MFI)
+Report page number: 41
